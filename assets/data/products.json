@@ -1,0 +1,750 @@
+[
+  {
+    "slug": "sodium-metasilicate",
+    "name_fa": "متاسیلیکات سدیم",
+    "name_en": "Sodium Metasilicate",
+    "formula": "Na₂SiO₃",
+    "cas": "6834-92-0",
+    "category": "salts_silicates",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1581093458791-9f3c3900df4b?auto=format&fit=crop&w=900&q=70",
+    "gallery": [
+      "https://images.unsplash.com/photo-1581093458791-9f3c3900df4b?auto=format&fit=crop&w=1200&q=70",
+      "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=1200&q=70",
+      "https://images.unsplash.com/photo-1607998491345-30c4f7e8c8f0?auto=format&fit=crop&w=1200&q=70"
+    ],
+    "short_fa": "بافر قلیایی، خورنده‌پاک‌کن و عامل کلاته‌کننده در شوینده‌های صنعتی و خانگی.",
+    "short_en": "Alkaline buffer, corrosion inhibitor and chelating agent in industrial and household detergents.",
+    "description_fa": "متاسیلیکات سدیم نمک سدیم سیلیسیک اسید است که به‌صورت پودر سفید، بی‌بو و بلورین عرضه می‌شود. این ماده در فرمولاسیون شوینده‌های صنعتی و خانگی نقش چندگانه‌ای دارد: بافر قلیایی قوی، کنترل‌کننده سختی آب از طریق کلاته‌کردن یون‌های کلسیم و منیزیم، عامل ضدخوردگی برای قطعات فلزی ماشین‌های ظرفشویی و افزایش‌دهنده قدرت پاک‌کنندگی سورفاکتانت‌ها. در فرمولاسیون صابون‌ها، پاک‌کننده‌های صنعتی، شوینده‌های دستی و ماشین لباسشویی کاربرد گسترده‌ای دارد. خاور صدرا گرید پنتاهیدرات و آنهیدرید این محصول را در بسته‌بندی‌های ۲۵ کیلوگرمی تأمین می‌کند.",
+    "description_en": "Sodium metasilicate is the sodium salt of silicic acid, supplied as a white, odorless crystalline powder. It plays multiple roles in industrial and household detergent formulations: strong alkaline buffer, water hardness controller through chelation of calcium and magnesium ions, corrosion inhibitor for metal parts of dishwashers, and booster of surfactant cleaning power. It is widely used in soap formulations, industrial cleaners, hand and machine laundry detergents. Khavar Sadra supplies both pentahydrate and anhydrous grades in 25 kg packaging.",
+    "applications_fa": [
+      "تولید پودر و مایع ماشین ظرفشویی",
+      "شوینده‌های صنعتی و چربی‌پاک‌کن",
+      "بافترة قلیایی صابون‌ها و شوینده‌های لباسشویی",
+      "عامل ضدخوردگی در سیستم‌های شوینده فلزی",
+      "تصفیه آب و کنترل خوردگی در دیگ‌های بخار"
+    ],
+    "applications_en": [
+      "Dishwasher powder and liquid production",
+      "Industrial cleaners and degreasers",
+      "Alkaline buffer for soaps and laundry detergents",
+      "Corrosion inhibitor in metal cleaning systems",
+      "Water treatment and boiler corrosion control"
+    ],
+    "specs": [
+      { "key_fa": "خلوص (Na₂SiO₃)", "value_fa": "حداقل ۹۸٪", "key_en": "Purity (Na₂SiO₃)", "value_en": "Min. 98%" },
+      { "key_fa": "گرید", "value_fa": "پنتاهیدرات / آنهیدرید", "key_en": "Grade", "value_en": "Pentahydrate / Anhydrous" },
+      { "key_fa": "شکل ظاهری", "value_fa": "پودر سفید بلورین", "key_en": "Appearance", "value_en": "White crystalline powder" },
+      { "key_fa": "pH (محلول ۱٪)", "value_fa": "۱۲ تا ۱۳", "key_en": "pH (1% solution)", "value_en": "12 – 13" },
+      { "key_fa": "بسته‌بندی", "value_fa": "کیسه ۲۵ کیلوگرمی", "key_en": "Packaging", "value_en": "25 kg bag" }
+    ],
+    "packaging_fa": "بسته‌بندی در کیسه‌های پلی‌پروپیلن ۲۵ کیلوگرمی با روکش ضد رطوبت. نگهداری در مکان خشک، خنک و دارای تهویه، دور از رطوبت و اسیدها. حداکثر دمای نگهداری ۳۰ درجه سانتی‌گراد. عمر مفید ۲۴ ماه در شرایط مناسب.",
+    "packaging_en": "Packaged in 25 kg polypropylene bags with moisture-proof inner liner. Store in a dry, cool and ventilated place, away from moisture and acids. Maximum storage temperature 30°C. Shelf life 24 months under proper conditions.",
+    "safety_fa": "خورنده! تماس با پوست و چشم می‌تواند باعث سوختگی شدید شیمیایی شود. استفاده از دستکش، عینک محافظ و روپوش ضروری است. در صورت تماس با چشم، فوراً ۱۵ دقیقه با آب فراوان شستشو داده و به پزشک مراجعه کنید. دور از دسترس کودکان نگهداری شود. برگه ایمنی کامل (SDS) همراه محصول ارائه می‌شود.",
+    "safety_en": "Corrosive! Contact with skin and eyes can cause severe chemical burns. Use of gloves, safety goggles and protective clothing is mandatory. In case of eye contact, rinse immediately with plenty of water for 15 minutes and seek medical attention. Keep out of reach of children. Full Safety Data Sheet (SDS) provided with the product.",
+    "_disclaimer": "DEMO VALUES — to be verified by Khavar Sadra technical team before ordering.",
+    "faq": [
+      {
+        "q_fa": "تفاوت گرید پنتاهیدرات و آنهیدرید چیست؟",
+        "a_fa": "گرید پنتاهیدرات شامل پنج مولکول آب تبلور است و قلیاییت نسبتاً ملایم‌تری دارد؛ آنهیدرید فاقد آب تبلور، قلیایی‌تر و واکنش‌پذیرتر است. انتخاب بسته به فرمولاسیون و تجهیزات خط تولید است.",
+        "q_en": "What is the difference between pentahydrate and anhydrous grade?",
+        "a_en": "Pentahydrate grade contains five molecules of water of crystallization and has a relatively milder alkalinity; anhydrous has no water of crystallization, is more alkaline and more reactive. The choice depends on formulation and production line equipment."
+      },
+      {
+        "q_fa": "برای ماشین ظرفشویی صنعتی چه مقدار استفاده می‌شود؟",
+        "a_fa": "مقدار مصرف بسته به سختی آب و درجه چربی ظروف متغیر است؛ مقدار دقیق توسط کارشناس فنی خاور صدرا پیشنهاد می‌شود.",
+        "q_en": "How much is used for industrial dishwashers?",
+        "a_en": "The amount used varies depending on water hardness and grease level; the exact amount is recommended by a Khavar Sadra technical specialist."
+      }
+    ]
+  },
+  {
+    "slug": "polyvinyl-alcohol-pva",
+    "name_fa": "پلی‌وینیل الکل (PVA)",
+    "name_en": "Polyvinyl Alcohol (PVA)",
+    "formula": "(C₂H₄O)ₙ",
+    "cas": "9002-89-5",
+    "category": "polymers_resins",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1611123624238-8cfff6c3ac9c?auto=format&fit=crop&w=900&q=70",
+    "gallery": [
+      "https://images.unsplash.com/photo-1611123624238-8cfff6c3a9c?auto=format&fit=crop&w=1200&q=70",
+      "https://images.unsplash.com/photo-1565043589221-994025e2cd1d?auto=format&fit=crop&w=1200&q=70",
+      "https://images.unsplash.com/photo-1581094288338-2314dddb7ece?auto=format&fit=crop&w=1200&q=70"
+    ],
+    "short_fa": "پلیمر محلول در آب با کاربرد در چسب، پوشش، نساجی و کپسول‌های شوینده.",
+    "short_en": "Water-soluble polymer used in adhesives, coatings, textiles and detergent capsules.",
+    "description_fa": "پلی‌وینیل الکل (PVA) یک پلیمر سنتزی محلول در آب است که از هیدرولیز پلی‌وینیل استات به دست می‌آید. این ماده به دلیل فیلم‌سازی شفاف، چسبندگی بالا، سازگاری با محیط زیست و قابلیت تجزیه‌پذیری، در صنایع چسب و چسب‌سازی، پوشش‌های محافظ، نساجی (اندازه نخ)، کاغذسازی، چاپ و بسته‌بندی فیلم‌های محلول در آب استفاده می‌شود. گریدهای مختلف PVA با درجه هیدرولیز و ویسکوزیته متفاوت عرضه می‌شوند و انتخاب گرید به کاربرد نهایی بستگی دارد. خاور صدرا گریدهای کاملاً هیدرولیز و parcial هیدرولیز را تأمین می‌کند.",
+    "description_en": "Polyvinyl alcohol (PVA) is a synthetic water-soluble polymer produced by hydrolysis of polyvinyl acetate. Due to its clear film-forming, high adhesion, environmental compatibility and biodegradability, it is used in adhesive and glue manufacturing, protective coatings, textiles (yarn sizing), papermaking, printing and water-soluble film packaging. Different PVA grades are available with varying degrees of hydrolysis and viscosity, and grade selection depends on the end application. Khavar Sadra supplies both fully hydrolyzed and partially hydrolyzed grades.",
+    "applications_fa": [
+      "تولید چسب‌های چوب، کاغذ و بسته‌بندی",
+      "اندازه‌کردن نخ در نساجی (sizing)",
+      "تولید فیلم‌های محلول در آب (کپسول شوینده)",
+      "پوشش‌های محافظ و رنگ‌های پایه آب",
+      "چسب‌سازی صنعتی و چاپ"
+    ],
+    "applications_en": [
+      "Wood, paper and packaging adhesive production",
+      "Yarn sizing in textiles",
+      "Water-soluble film production (detergent capsules)",
+      "Protective coatings and water-based paints",
+      "Industrial adhesives and printing"
+    ],
+    "specs": [
+      { "key_fa": "درجه هیدرولیز", "value_fa": "۸۷ تا ۸۹٪ / ۹۸ تا ۹۹٪", "key_en": "Hydrolysis degree", "value_en": "87–89% / 98–99%" },
+      { "key_fa": "ویسکوزیته (۴٪، ۲۰°C)", "value_fa": "۲۰ تا ۵۰ سانتی‌پواز", "key_en": "Viscosity (4%, 20°C)", "value_en": "20–50 cP" },
+      { "key_fa": "گرید", "value_fa": "صنعتی / دارویی", "key_en": "Grade", "value_en": "Industrial / Pharma" },
+      { "key_fa": "شکل ظاهری", "value_fa": "پودر سفید تا کرم", "key_en": "Appearance", "value_en": "White to cream powder" },
+      { "key_fa": "بسته‌بندی", "value_fa": "کیسه ۲۵ کیلوگرمی", "key_en": "Packaging", "value_en": "25 kg bag" }
+    ],
+    "packaging_fa": "بسته‌بندی در کیسه‌های چندلایه کاغذی ۲۵ کیلوگرمی با روکش پلی‌اتیلن. نگهداری در محل خشک، خنک و دور از تابش مستقیم خورشید. رطوبت محیط باید زیر ۶۰٪ باشد. عمر مفید ۲۴ ماه.",
+    "packaging_en": "Packaged in 25 kg multi-layer paper bags with polyethylene inner liner. Store in a dry, cool place away from direct sunlight. Ambient humidity should be below 60%. Shelf life 24 months.",
+    "safety_fa": "کم‌خطر در شرایط عادی کاربرد. در صورت inhalation پودر، ممکن است باعث تحریک خفیف دستگاه تنفسی شود. استفاده از ماسک ضد گرد و غبار در هنگام جابجایی توصیه می‌شود. تماس با چشم را با آب شستشو دهید. اطلاعات کامل در SDS.",
+    "safety_en": "Low hazard under normal handling conditions. Inhalation of powder may cause mild respiratory irritation. A dust mask is recommended during handling. Rinse eye contact with water. Full details in SDS.",
+    "_disclaimer": "DEMO VALUES — to be verified by Khavar Sadra technical team before ordering.",
+    "faq": [
+      {
+        "q_fa": "گرید کاملاً هیدرولیز و پاره‌ای هیدرولیز چه تفاوتی دارند؟",
+        "a_fa": "گرید کاملاً هیدرولیز (۹۸٪+) مقاومت به آب و فیلم سخت‌تری ایجاد می‌کند و برای کاربردهایی که نیاز به مقاومت بالاست مناسب است. گرید پاره‌ای هیدرولیز (۸۷–۸۹٪) انعطاف‌پذیرتر و برای چسب‌ها و کپسول‌های شوینده معمول است.",
+        "q_en": "What is the difference between fully and partially hydrolyzed grades?",
+        "a_en": "Fully hydrolyzed grade (98%+) provides water resistance and harder film, suitable for applications requiring high durability. Partially hydrolyzed grade (87–89%) is more flexible and is commonly used in adhesives and detergent capsules."
+      }
+    ]
+  },
+  {
+    "slug": "sulfonic-acid-labsa",
+    "name_fa": "اسید سولفونیک پودری (LABSA)",
+    "name_en": "Powdered Sulfonic Acid (LABSA)",
+    "formula": "C₁₈H₃₀O₃S",
+    "cas": "27176-87-0",
+    "category": "surfactants",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1607998491335-30c4f7e8c8f0?auto=format&fit=crop&w=900&q=70",
+    "gallery": [
+      "https://images.unsplash.com/photo-1607998491335-30c4f7e8c8f0?auto=format&fit=crop&w=1200&q=70",
+      "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=1200&q=70",
+      "https://images.unsplash.com/photo-1565043589221-994025e2cd1d?auto=format&fit=crop&w=1200&q=70"
+    ],
+    "short_fa": "سورفاکتانت آنیونی پایه برای تولید مایع و پودر شوینده و خمیر صابون.",
+    "short_en": "Anionic surfactant base for liquid and powder detergents and soap paste.",
+    "description_fa": "اسید سولفونیک لینیر آلکیل بنزن (LABSA) یکی از پرکاربردترین سورفاکتانت‌های آنیونی در صنعت شوینده است. این ماده از سولفوناسیون اسید لینیر آلکیل بنزن تولید می‌شود و به‌عنوان ماده فعال سطحی پایه در اکثر پودر و مایع شوینده‌های خانگی و صنعتی، خمیر صابون، شوینده‌های ظرفشویی و تمیزکننده‌های صنعتی استفاده می‌شود. فرم پودری آن برای فرمولاسیون پودرها و حمل آسان‌تر مناسب است. خاور صدرا گرید ۹۶٪ فعال را تأمین می‌کند.",
+    "description_en": "Linear alkyl benzene sulfonic acid (LABSA) is one of the most widely used anionic surfactants in the detergent industry. It is produced by sulfonation of linear alkyl benzene and is used as the base surfactant in most household and industrial powder and liquid detergents, soap paste, dishwashing detergents and industrial cleaners. Its powder form is suitable for powder formulations and easier transport. Khavar Sadra supplies the 96% active grade.",
+    "applications_fa": [
+      "تولید پودر و مایع لباسشویی و ظرفشویی",
+      "خمیر صابون و صابون‌های صنعتی",
+      "شوینده‌های صنعتی و چربی‌پاک‌کن",
+      "شامپوهای صنعتی و خانگی پایه سولفونات",
+      "امولسی‌فایر در صنایع مختلف"
+    ],
+    "applications_en": [
+      "Laundry and dishwashing powder and liquid production",
+      "Soap paste and industrial soaps",
+      "Industrial cleaners and degreasers",
+      "Industrial and household sulfonate-based shampoos",
+      "Emulsifier in various industries"
+    ],
+    "specs": [
+      { "key_fa": "ماده فعال", "value_fa": "حداقل ۹۶٪", "key_en": "Active matter", "value_en": "Min. 96%" },
+      { "key_fa": "اسید آزاد (H₂SO₄)", "value_fa": "حداکثر ۱.۵٪", "key_en": "Free acid (H₂SO₄)", "value_en": "Max. 1.5%" },
+      { "key_fa": "رنگ کریزن (5%活性)", "value_fa": "حداکثر ۳۰", "key_en": "Klett color (5% active)", "value_en": "Max. 30" },
+      { "key_fa": "آب", "value_fa": "حداکثر ۱.۵٪", "key_en": "Water", "value_en": "Max. 1.5%" },
+      { "key_fa": "بسته‌بندی", "value_fa": "کیسه ۲۵ کیلوگرمی", "key_en": "Packaging", "value_en": "25 kg bag" }
+    ],
+    "packaging_fa": "بسته‌بندی در کیسه پلی‌پروپیلن ۲۵ کیلوگرمی با روکش ضد رطوبت. نگهداری در محیط خشک، خنک، دارای تهویه و دور از اکسیدکننده‌ها. عمر مفید ۱۲ ماه در شرایط مناسب.",
+    "packaging_en": "Packaged in 25 kg polypropylene bags with moisture-proof liner. Store in a dry, cool, ventilated environment away from oxidizers. Shelf life 12 months under proper conditions.",
+    "safety_fa": "اسید! خورنده پوست و چشم. تماس باعث سوختگی شدید می‌شود. استفاده از دستکش اسیدپروپیل، عینک محافظ و روپوش کامل الزامی است. در صورت تماس با پوست، فوراً با آب فراوان بشویید. در صورت inhalation بخارات، به هوای تازه منتقل شوید. اطلاعات کامل در SDS.",
+    "safety_en": "Acid! Corrosive to skin and eyes. Contact causes severe burns. Acid-resistant gloves, safety goggles and full protective clothing are mandatory. In case of skin contact, rinse immediately with plenty of water. In case of vapor inhalation, move to fresh air. Full details in SDS.",
+    "_disclaimer": "DEMO VALUES — to be verified by Khavar Sadra technical team before ordering.",
+    "faq": [
+      {
+        "q_fa": "تفاوت فرم پودری و مایع چیست؟",
+        "a_fa": "فرم مایع رایج‌تر و برای تولید مایعات مناسب است؛ فرم پودری برای فرمولاسیون پودرها، حمل مسافت‌های طولانی و انبارش آسان‌تر مناسب است. فعالیت سورفاکتانتی در هر دو یکسان است.",
+        "q_en": "What is the difference between powder and liquid form?",
+        "a_en": "The liquid form is more common and suitable for liquid production; the powder form is suitable for powder formulations, long-distance transport and easier storage. Surfactant activity is the same in both."
+      }
+    ]
+  },
+  {
+    "slug": "industrial-phosphoric-acid",
+    "name_fa": "اسید فسفریک صنعتی",
+    "name_en": "Industrial Phosphoric Acid",
+    "formula": "H₃PO₄",
+    "cas": "7664-38-2",
+    "category": "acids",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=900&q=70",
+    "gallery": [
+      "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=1200&q=70",
+      "https://images.unsplash.com/photo-1607998491335-30c4f7e8c8f0?auto=format&fit=crop&w=1200&q=70",
+      "https://images.unsplash.com/photo-1581093458791-9f3c3900df4b?auto=format&fit=crop&w=1200&q=70"
+    ],
+    "short_fa": "اسید معدنی متوسط برای شوینده، تصفیه آب، فلزکاری و صنایع غذایی (گرید مجاز).",
+    "short_en": "Medium-strength mineral acid for detergents, water treatment, metalworking and food-grade uses.",
+    "description_fa": "اسید فسفریک یکی از مهم‌ترین اسیدهای معدنی صنعت است که در گرید ۸۵٪ صنعتی عرضه می‌شود. این ماده در فرمولاسیون شوینده‌های صنعتی (به‌ویژه شوینده‌های اسیدی و ضدعفونی‌کننده‌ها)، تصفیه آب به‌عنوان تنظیم‌کننده pH و ضدرسوب، فلزکاری (فسفاته کردن فلز، آنودیzing آلومینیوم)، تولید کود فسفاته، و در گرید غذایی به‌عنوان اسیدی‌کننده و طعم‌دهنده کاربرد دارد. خاور صدرا گرید ۸۵٪ صنعتی و گرید غذایی (Food Grade) را تأمین می‌کند.",
+    "description_en": "Phosphoric acid is one of the most important industrial mineral acids, supplied in 85% industrial grade. It is used in industrial detergent formulations (especially acidic cleaners and disinfectants), water treatment as pH adjuster and anti-scaling agent, metalworking (metal phosphating, aluminum anodizing), phosphate fertilizer production, and in food grade as acidulant and flavoring agent. Khavar Sadra supplies 85% industrial grade and Food Grade.",
+    "applications_fa": [
+      "شوینده‌های اسیدی و ضدعفونی‌کننده‌ها",
+      "تصفیه آب و کنترل pH",
+      "فسفاته‌کردن فلز و آندایزینگ آلومینیوم",
+      "تولید کودهای فسفاته",
+      "صنایع غذایی (فقط گرید Food Grade)"
+    ],
+    "applications_en": [
+      "Acidic detergents and disinfectants",
+      "Water treatment and pH control",
+      "Metal phosphating and aluminum anodizing",
+      "Phosphate fertilizer production",
+      "Food industry (Food Grade only)"
+    ],
+    "specs": [
+      { "key_fa": "غلظت (H₃PO₄)", "value_fa": "حداقل ۸۵٪", "key_en": "Concentration (H₃PO₄)", "value_en": "Min. 85%" },
+      { "key_fa": "گرید", "value_fa": "صنعتی / Food Grade", "key_en": "Grade", "value_en": "Industrial / Food Grade" },
+      { "key_fa": "رنگ", "value_fa": "بی‌رنگ تا زرد کمرنگ", "key_en": "Color", "value_en": "Colorless to pale yellow" },
+      { "key_fa": "چگالی", "value_fa": "حدود ۱.۶۸ گرم بر سانتی‌متر مکعب", "key_en": "Density", "value_en": "~1.68 g/cm³" },
+      { "key_fa": "بسته‌بندی", "value_fa": "بشکه ۳۵ کیلوگرمی / IBC", "key_en": "Packaging", "value_en": "35 kg drum / IBC" }
+    ],
+    "packaging_fa": "بسته‌بندی در بشکه‌های پلی‌اتیلن ۳۵ کیلوگرمی یا تانک IBC. نگهداری در محیط خشک و خنک، دور از فلزات، بازارها و مواد آلی. از تماس با ظروف فلزی (به‌جز فولاد ضدزنگ) خودداری کنید. عمر مفید ۱۲ ماه.",
+    "packaging_en": "Packaged in 35 kg polyethylene drums or IBC tanks. Store in a dry, cool environment away from metals, alkalis and organic materials. Avoid contact with metal containers (except stainless steel). Shelf life 12 months.",
+    "safety_fa": "اسید متوسط! خورنده. تماس با پوست و چشم باعث سوختگی شیمیایی می‌شود. استفاده از تجهیزات محافظ فردی کامل الزامی است. در صورت تماس، ۱۵ دقیقه با آب فراوان شستشو دهید. نگهداری دور از بازارها و اکسیدکننده‌های قوی. اطلاعات کامل در SDS.",
+    "safety_en": "Medium acid! Corrosive. Contact with skin and eyes causes chemical burns. Use of full personal protective equipment is mandatory. In case of contact, rinse with plenty of water for 15 minutes. Store away from alkalis and strong oxidizers. Full details in SDS.",
+    "_disclaimer": "DEMO VALUES — to be verified by Khavar Sadra technical team before ordering.",
+    "faq": [
+      {
+        "q_fa": "گرید غذایی و صنعتی چه تفاوتی دارند؟",
+        "a_fa": "گرید غذایی (Food Grade) خلوص بالاتر و محدودیت سخت‌گیرانه‌ای برای ناخالصی‌های فلز سنگین (آرسنیک، سرب و...) دارد و برای مصرف انسانی مجاز است. گرید صنعتی فقط برای مصارف غیرغذایی استفاده می‌شود.",
+        "q_en": "What is the difference between food grade and industrial grade?",
+        "a_en": "Food grade has higher purity and strict limits for heavy metal impurities (arsenic, lead, etc.) and is approved for human consumption. Industrial grade is used only for non-food applications."
+      }
+    ]
+  },
+  {
+    "slug": "xanthan-gum-china",
+    "name_fa": "صمغ زانتان (گرید چین)",
+    "name_en": "Xanthan Gum (China grade)",
+    "formula": "C₃₅H₄₉O₂₉",
+    "cas": "11138-66-2",
+    "category": "gums_additives",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1565043589221-994025e2cd1d?auto=format&fit=crop&w=900&q=70",
+    "gallery": [
+      "https://images.unsplash.com/photo-1565043589221-994025e2cd1d?auto=format&fit=crop&w=1200&q=70",
+      "https://images.unsplash.com/photo-1611123624238-8cfff6c3a9c?auto=format&fit=crop&w=1200&q=70",
+      "https://images.unsplash.com/photo-1581093458791-9f3c3900df4b?auto=format&fit=crop&w=1200&q=70"
+    ],
+    "short_fa": "قوام‌دهنده و تثبیت‌کننده میکروبی پلی‌ساکارید با کاربرد در غذا، آرایشی و گل حفاری.",
+    "short_en": "Microbial polysaccharide thickener and stabilizer for food, cosmetics and drilling mud.",
+    "description_fa": "صمغ زانتان یک پلی‌ساکارید میکروبی است که توسط تخمیر باکتری Xanthomonas campestris تولید می‌شود. این ماده به دلیل خاصیت قوام‌دهندگی قوی، سازگاری با محدوده وسیع دما و pH، و رفتار رئولوژیک پلاستیک (برشی)، در صنایع غذایی (سس‌ها، لبنیات، نوشیدنی‌ها)، آرایشی و بهداشتی (کرم‌ها، ژل‌ها، خمیردندان)، دارویی، و در گل حفاری به‌عنوان کنترل‌کننده ویسکوزیته کاربرد گسترده‌ای دارد. خاور صدرا گرید چینی این محصول را با قیمت رقابتی و کیفیت پایدار تأمین می‌کند.",
+    "description_en": "Xanthan gum is a microbial polysaccharide produced by fermentation of the bacterium Xanthomonas campestris. Due to its strong thickening property, compatibility with a wide temperature and pH range, and plastic (shear-thinning) rheological behavior, it is widely used in food industries (sauces, dairy, beverages), cosmetics and personal care (creams, gels, toothpaste), pharmaceuticals, and in drilling mud as a viscosity controller. Khavar Sadra supplies the Chinese grade with competitive pricing and stable quality.",
+    "applications_fa": [
+      "تثبیت‌کننده و قوام‌دهنده در سس‌ها و لبنیات",
+      "گل حفاری نفت و گاز (کنترل ویسکوزیته)",
+      "کرم‌ها و ژل‌های آرایشی و بهداشتی",
+      "محصولات دارویی و مکمل‌ها",
+      "رنگ‌ها و پوشش‌های پایه آب"
+    ],
+    "applications_en": [
+      "Stabilizer and thickener in sauces and dairy",
+      "Oil & gas drilling mud (viscosity control)",
+      "Cosmetic and personal care creams and gels",
+      "Pharmaceutical products and supplements",
+      "Water-based paints and coatings"
+    ],
+    "specs": [
+      { "key_fa": "خلوص", "value_fa": "حداقل ۹۱٪", "key_en": "Purity", "value_en": "Min. 91%" },
+      { "key_fa": "گرید", "value_fa": "صنعتی (چین) / Food Grade قابل تأمین", "key_en": "Grade", "value_en": "Industrial (China) / Food Grade available" },
+      { "key_fa": "ویسکوزیته (۱٪ محلول)", "value_fa": "۱۲۰۰ تا ۱۷۰۰ سانتی‌پواز", "key_en": "Viscosity (1% solution)", "value_en": "1200–1700 cP" },
+      { "key_fa": "شکل ظاهری", "value_fa": "پودر سفید تا کمرنگ", "key_en": "Appearance", "value_en": "White to off-white powder" },
+      { "key_fa": "بسته‌بندی", "value_fa": "کیسه ۲۵ کیلوگرمی", "key_en": "Packaging", "value_en": "25 kg bag" }
+    ],
+    "packaging_fa": "بسته‌بندی در کیسه‌های چندلایه کاغذی ۲۵ کیلوگرمی با روکش پلی‌اتیلن. نگهداری در محل خشک، خنک و دور از تابش مستقیم خورشید. رطوبت محیط زیر ۶۰٪. عمر مفید ۲۴ ماه.",
+    "packaging_en": "Packaged in 25 kg multi-layer paper bags with polyethylene inner liner. Store in a dry, cool place away from direct sunlight. Ambient humidity below 60%. Shelf life 24 months.",
+    "safety_fa": "کم‌خطر. در شرایط عادی کاربرد ایمن است. inhalation پودر ممکن است باعث تحریک خفیف تنفسی شود. استفاده از ماسک ضد گرد و غبار در هنگام جابجایی توصیه می‌شود. اطلاعات کامل در SDS.",
+    "safety_en": "Low hazard. Safe to handle under normal conditions. Powder inhalation may cause mild respiratory irritation. A dust mask is recommended during handling. Full details in SDS.",
+    "_disclaimer": "DEMO VALUES — to be verified by Khavar Sadra technical team before ordering.",
+    "faq": [
+      {
+        "q_fa": "تفاوت زانتان چینی با اروپایی چیست؟",
+        "a_fa": "هر دو از همان باکتری تولید می‌شوند و مشخصات کلی مشابهی دارند. زانتان چینی به دلیل مزیت قیمت در صنایع غیرغذایی و گل حفاری رایج است. برای کاربردهای حساس دارویی و غذایی، گرید اروپایی یا آمریکایی قابل تأمین است.",
+        "q_en": "What is the difference between Chinese and European xanthan?",
+        "a_en": "Both are produced by the same bacterium and have similar general specifications. Chinese xanthan is common in non-food industries and drilling muds due to its price advantage. For sensitive pharmaceutical and food applications, European or American grades can be supplied."
+      }
+    ]
+  },
+  {
+    "slug": "caustic-soda-flakes",
+    "name_fa": "سود سوزآور پرک (NaOH)",
+    "name_en": "Caustic Soda Flakes (NaOH)",
+    "formula": "NaOH",
+    "cas": "1310-73-2",
+    "category": "salts_silicates",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1607998491335-30c4f7e8c8f0?auto=format&fit=crop&w=900&q=70",
+    "gallery": [
+      "https://images.unsplash.com/photo-1607998491335-30c4f7e8c8f0?auto=format&fit=crop&w=1200&q=70",
+      "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=1200&q=70",
+      "https://images.unsplash.com/photo-1581093458791-9f3c3900df4b?auto=format&fit=crop&w=1200&q=70"
+    ],
+    "short_fa": "باز قوی پرکاربرد در صنایع شیمیایی، شوینده، نساجی، آلومینیوم و تصفیه آب.",
+    "short_en": "Strong base widely used in chemicals, detergents, textiles, aluminum and water treatment.",
+    "description_fa": "سود سوزآور (هیدروکسید سدیم) یکی از پایه‌ای‌ترین مواد شیمیایی صنعتی است که به‌صورت پرک سفید، بی‌بو و بسیار خورنده عرضه می‌شود. این ماده در صنایع شوینده (ساپونیفیکاسیون چربی‌ها به صابون)، خمیر و کاغذ، نساجی (مرسریزاسیون پنبه)، آلومینیوم (تصفیه بوکسیت)، شیمیایی (تولید سورفاکتانت‌ها، فنل‌ها، اپوکسی)، تصفیه آب (تنظیم pH) و پتروشیمی کاربرد بنیادی دارد. خاور صدرا گرید ۹۹٪ پرک را در بسته‌بندی‌های ۲۵ کیلوگرمی تأمین می‌کند.",
+    "description_en": "Caustic soda (sodium hydroxide) is one of the most fundamental industrial chemicals, supplied as white, odorless, highly corrosive flakes. It is essential in detergent industries (saponification of fats into soap), pulp and paper, textiles (cotton mercerization), aluminum (bauxite refining), chemicals (production of surfactants, phenols, epoxy), water treatment (pH adjustment) and petrochemicals. Khavar Sadra supplies 99% flake grade in 25 kg packaging.",
+    "applications_fa": [
+      "ساپونیفیکاسیون و تولید صابون و شوینده",
+      "مرسریزاسیون پنبه در نساجی",
+      "تصفیه بوکسیت در صنعت آلومینیوم",
+      "تولید خمیر کاغذ و پرکننده‌ها",
+      "تنظیم pH در تصفیه آب و پساب"
+    ],
+    "applications_en": [
+      "Saponification and soap/detergent production",
+      "Cotton mercerization in textiles",
+      "Bauxite refining in aluminum industry",
+      "Pulp and filler production",
+      "pH adjustment in water and wastewater treatment"
+    ],
+    "specs": [
+      { "key_fa": "خلوص (NaOH)", "value_fa": "حداقل ۹۹٪", "key_en": "Purity (NaOH)", "value_en": "Min. 99%" },
+      { "key_fa": "سدیم کربنات (Na₂CO₃)", "value_fa": "حداکثر ۰.۵٪", "key_en": "Sodium carbonate (Na₂CO₃)", "value_en": "Max. 0.5%" },
+      { "key_fa": "کلرید سدیم (NaCl)", "value_fa": "حداکثر ۰.۰۲٪", "key_en": "Sodium chloride (NaCl)", "value_en": "Max. 0.02%" },
+      { "key_fa": "شکل ظاهری", "value_fa": "پرک سفید", "key_en": "Appearance", "value_en": "White flakes" },
+      { "key_fa": "بسته‌بندی", "value_fa": "کیسه ۲۵ کیلوگرمی", "key_en": "Packaging", "value_en": "25 kg bag" }
+    ],
+    "packaging_fa": "بسته‌بندی در کیسه‌های پلی‌پروپیلن ۲۵ کیلوگرمی با دو روکش پلاستیکی ضد رطوبت. نگهداری در محیط کاملاً خشک، خنک و دارای تهویه، دور از اسیدها، فلزات و مواد آلی. عمر مفید ۱۲ ماه در شرایط مناسب.",
+    "packaging_en": "Packaged in 25 kg polypropylene bags with two moisture-proof plastic liners. Store in a completely dry, cool, ventilated environment away from acids, metals and organic materials. Shelf life 12 months under proper conditions.",
+    "safety_fa": "باز قوی و به شدت خورنده! تماس با پوست و چشم باعث سوختگی شدید شیمیایی و آسیب دائمی می‌شود. واکنش با آب شدیداً گرمازا است. استفاده از تجهیزات محافظ فردی کامل (دستکش لاستیکی، عینک، روپوش، کفش ایمن) الزامی است. در صورت تماس، فوراً و طولانی با آب شستشو دهید. اطلاعات کامل در SDS.",
+    "safety_en": "Strong base and highly corrosive! Contact with skin and eyes causes severe chemical burns and permanent damage. Reaction with water is highly exothermic. Use of full personal protective equipment (rubber gloves, goggles, suit, safety shoes) is mandatory. In case of contact, rinse immediately and extensively with water. Full details in SDS.",
+    "_disclaimer": "DEMO VALUES — to be verified by Khavar Sadra technical team before ordering.",
+    "faq": [
+      {
+        "q_fa": "پرک و مایع چه تفاوتی دارند؟",
+        "a_fa": "گرید پرک معمولاً ۹۸ تا ۹۹٪ خلوص دارد و حمل و انبارش آسان‌تری دارد. گرید مایع معمولاً ۵۰٪ خلوص دارد و برای خطوطی که پمپاژ دارند مناسب است. انتخاب بسته به تجهیزات خط تولید است.",
+        "q_en": "What is the difference between flakes and liquid?",
+        "a_en": "Flake grade is typically 98–99% pure and easier to transport and store. Liquid grade is typically 50% pure and suitable for lines with pumping. The choice depends on production line equipment."
+      }
+    ]
+  },
+  {
+    "slug": "citric-acid",
+    "name_fa": "اسید سیتریک",
+    "name_en": "Citric Acid",
+    "formula": "C₆H₈O₇",
+    "cas": "77-92-9",
+    "category": "acids",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1581093458791-9f3c3900df4b?auto=format&fit=crop&w=900&q=70",
+    "gallery": [
+      "https://images.unsplash.com/photo-1581093458791-9f3c3900df4b?auto=format&fit=crop&w=1200&q=70",
+      "https://images.unsplash.com/photo-1565043589221-994025e2cd1d?auto=format&fit=crop&w=1200&q=70",
+      "https://images.unsplash.com/photo-1607998491335-30c4f7e8c8f0?auto=format&fit=crop&w=1200&q=70"
+    ],
+    "short_fa": "اسید آلی ضعیف با کاربرد در صنایع غذایی، آرایشی، شوینده و تصفیه آب.",
+    "short_en": "Weak organic acid used in food, cosmetics, detergents and water treatment.",
+    "description_fa": "اسید سیتریک یک اسید آلی ضعیف است که به‌طور طبیعی در مرکبات یافت می‌شود و به‌صورت صنعتی از تخمیر ملاس تولید می‌گردد. این ماده در گرید آنهیدرید و مونوهیدرات عرضه می‌شود. کاربردهای اصلی آن در صنایع غذایی (اسیدی‌کننده، طعم‌دهنده، نگهدارنده)، نوشیدنی‌ها، آرایشی و بهداشتی (تنظیم pH، کلاته‌کننده)، شوینده‌ها (جرم‌گیر و ضدرسوب)، دارویی و تصفیه آب است. خاور صدرا گرید Food Grade و Industrial را تأمین می‌کند.",
+    "description_en": "Citric acid is a weak organic acid naturally found in citrus fruits and industrially produced by fermentation of molasses. It is supplied in anhydride and monohydrate grades. Its main applications are in food industries (acidulant, flavoring, preservative), beverages, cosmetics and personal care (pH adjuster, chelating agent), detergents (descaler and anti-scaling), pharmaceuticals and water treatment. Khavar Sadra supplies Food Grade and Industrial grades.",
+    "applications_fa": [
+      "اسیدی‌کننده و نگهدارنده در نوشیدنی و غذای فرآوری‌شده",
+      "تنظیم pH در محصولات آرایشی و بهداشتی",
+      "جرم‌گیر و ضدرسوب در شوینده‌ها",
+      "کلاته‌کننده در تصفیه آب",
+      "صنایع دارویی و مکمل"
+    ],
+    "applications_en": [
+      "Acidulant and preservative in beverages and processed food",
+      "pH adjustment in cosmetics and personal care products",
+      "Descaler and anti-scaling agent in detergents",
+      "Chelating agent in water treatment",
+      "Pharmaceutical and supplement industries"
+    ],
+    "specs": [
+      { "key_fa": "خلوص", "value_fa": "حداقل ۹۹.۵٪", "key_en": "Purity", "value_en": "Min. 99.5%" },
+      { "key_fa": "گرید", "value_fa": "Food / Industrial / مونوهیدرات و آنهیدرید", "key_en": "Grade", "value_en": "Food / Industrial / Monohydrate & Anhydrous" },
+      { "key_fa": "رنگ", "value_fa": "بی‌رنگ تا سفید", "key_en": "Color", "value_en": "Colorless to white" },
+      { "key_fa": "شکل ظاهری", "value_fa": "بلور یا پودر", "key_en": "Appearance", "value_en": "Crystal or powder" },
+      { "key_fa": "بسته‌بندی", "value_fa": "کیسه ۲۵ کیلوگرمی", "key_en": "Packaging", "value_en": "25 kg bag" }
+    ],
+    "packaging_fa": "بسته‌بندی در کیسه‌های چندلایه کاغذی ۲۵ کیلوگرمی با روکش پلی‌اتیلن. نگهداری در محیط خشک، خنک و دارای تهویه. دور از بازارها و اکسیدکننده‌ها. عمر مفید ۲۴ ماه.",
+    "packaging_en": "Packaged in 25 kg multi-layer paper bags with polyethylene inner liner. Store in a dry, cool, ventilated environment. Away from alkalis and oxidizers. Shelf life 24 months.",
+    "safety_fa": "کم‌خطر. اسید ضعیف است اما تماس مکرر با پوست ممکن است باعث تحریک شود. در صورت inhalation پودر، به هوای تازه منتقل شوید. استفاده از ماسک و عینک توصیه می‌شود. اطلاعات کامل در SDS.",
+    "safety_en": "Low hazard. A weak acid, but repeated skin contact may cause irritation. In case of powder inhalation, move to fresh air. Use of mask and goggles recommended. Full details in SDS.",
+    "_disclaimer": "DEMO VALUES — to be verified by Khavar Sadra technical team before ordering.",
+    "faq": [
+      {
+        "q_fa": "مونوهیدرات و آنهیدرید چه تفاوتی دارند؟",
+        "a_fa": "مونوهیدرات شامل یک مولکول آب تبلور است و معمولاً در صنایع غذایی و نوشیدنی رایج است. آنهیدرید فاقد آب تبلور است و برای کاربردهای حساس به رطوبت مناسب‌تر است.",
+        "q_en": "What is the difference between monohydrate and anhydrous?",
+        "a_en": "Monohydrate contains one molecule of water of crystallization and is common in food and beverage industries. Anhydrous is free of water of crystallization and is more suitable for moisture-sensitive applications."
+      }
+    ]
+  },
+  {
+    "slug": "cmc",
+    "name_fa": "کربوکسی متیل سلولز (CMC)",
+    "name_en": "Carboxymethyl Cellulose (CMC)",
+    "formula": "[C₆H₇O₂(OH)₂OCH₂COOH]ₙ",
+    "cas": "9004-32-4",
+    "category": "gums_additives",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1611123624238-8cfff6c3a9c?auto=format&fit=crop&w=900&q=70",
+    "gallery": [
+      "https://images.unsplash.com/photo-1611123624238-8cfff6c3a9c?auto=format&fit=crop&w=1200&q=70",
+      "https://images.unsplash.com/photo-1565043589221-994025e2cd1d?auto=format&fit=crop&w=1200&q=70",
+      "https://images.unsplash.com/photo-1607998491335-30c4f7e8c8f0?auto=format&fit=crop&w=1200&q=70"
+    ],
+    "short_fa": "قوام‌دهنده، چسب و عامل تعلیق سلولزی در شوینده، غذایی، نساجی و حفاری.",
+    "short_en": "Cellulosic thickener, binder and suspending agent in detergents, food, textiles and drilling.",
+    "description_fa": "کربوکسی متیل سلولز (CMC) یک مشتق سلولزی محلول در آب است که به‌عنوان قوام‌دهنده، چسب، عامل تعلیق و تثبیت‌کننده در بسیاری از صنایع استفاده می‌شود. در شوینده‌ها (به‌عنوان ضدرسوب‌کننده و قوام‌دهنده مایع)، غذایی (بستنی، سس، ژله)، نساجی (اندازه نخ)، کاغذسازی، دارویی و در گل حفاری کاربرد دارد. گریدهای مختلف CMC با درجه جایگزینی (DS) و ویسکوزیته متفاوت عرضه می‌شوند. خاور صدرا گریدهای صنعتی و خوراکی را تأمین می‌کند.",
+    "description_en": "Carboxymethyl cellulose (CMC) is a water-soluble cellulosic derivative used as a thickener, binder, suspending agent and stabilizer in many industries. It is used in detergents (as anti-redeposition agent and liquid thickener), food (ice cream, sauces, jelly), textiles (yarn sizing), papermaking, pharmaceuticals and in drilling mud. Different CMC grades are available with varying degrees of substitution (DS) and viscosity. Khavar Sadra supplies industrial and food grades.",
+    "applications_fa": [
+      "ضدرسوب‌کننده در پودر و مایع شوینده",
+      "قوام‌دهنده در بستنی و سس",
+      "اندازه‌کردن نخ در نساجی",
+      "گل حفاری (کنترل فیلتر loss)",
+      "چسب و بایندر در صنایع مختلف"
+    ],
+    "applications_en": [
+      "Anti-redeposition agent in detergent powder and liquid",
+      "Thickener in ice cream and sauces",
+      "Yarn sizing in textiles",
+      "Drilling mud (fluid loss control)",
+      "Binder and adhesive in various industries"
+    ],
+    "specs": [
+      { "key_fa": "درجه جایگزینی (DS)", "value_fa": "۰.۶ تا ۰.۹", "key_en": "Degree of substitution (DS)", "value_en": "0.6 – 0.9" },
+      { "key_fa": "ویسکوزیته (۲٪ محلول)", "value_fa": "۵۰۰ تا ۲۵۰۰ سانتی‌پواز", "key_en": "Viscosity (2% solution)", "value_en": "500–2500 cP" },
+      { "key_fa": "گرید", "value_fa": "صنعتی / Food Grade", "key_en": "Grade", "value_en": "Industrial / Food Grade" },
+      { "key_fa": "شکل ظاهری", "value_fa": "پودر سفید تا کمرنگ", "key_en": "Appearance", "value_en": "White to off-white powder" },
+      { "key_fa": "بسته‌بندی", "value_fa": "کیسه ۲۵ کیلوگرمی", "key_en": "Packaging", "value_en": "25 kg bag" }
+    ],
+    "packaging_fa": "بسته‌بندی در کیسه‌های چندلایه کاغذی ۲۵ کیلوگرمی با روکش پلی‌اتیلن. نگهداری در محل خشک، خنک و دارای تهویه. عمر مفید ۲۴ ماه.",
+    "packaging_en": "Packaged in 25 kg multi-layer paper bags with polyethylene inner liner. Store in a dry, cool and ventilated place. Shelf life 24 months.",
+    "safety_fa": "کم‌خطر. در شرایط عادی ایمن است. inhalation پودر ممکن است باعث تحریک خفیف تنفسی شود. استفاده از ماسک ضد گرد و غبار توصیه می‌شود. اطلاعات کامل در SDS.",
+    "safety_en": "Low hazard. Safe under normal conditions. Powder inhalation may cause mild respiratory irritation. A dust mask is recommended. Full details in SDS.",
+    "_disclaimer": "DEMO VALUES — to be verified by Khavar Sadra technical team before ordering.",
+    "faq": [
+      {
+        "q_fa": "DS چیست و چه اثری دارد؟",
+        "a_fa": "DS (Degree of Substitution) تعداد گروه‌های هیدروکسیل جایگزین‌شده در هر واحد سلولز است. DS بالاتر یعنی حلالیت بهتر در آب و ویسکوزیته بالاتر.",
+        "q_en": "What is DS and what is its effect?",
+        "a_en": "DS (Degree of Substitution) is the number of hydroxyl groups substituted per cellulose unit. Higher DS means better water solubility and higher viscosity."
+      }
+    ]
+  },
+  {
+    "slug": "stpp",
+    "name_fa": "تری‌پلی‌فسفات سدیم (STPP)",
+    "name_en": "Sodium Tripolyphosphate (STPP)",
+    "formula": "Na₅P₃O₁₀",
+    "cas": "7758-29-4",
+    "category": "salts_silicates",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1607998491335-30c4f7e8c8f0?auto=format&fit=crop&w=900&q=70",
+    "gallery": [
+      "https://images.unsplash.com/photo-1607998491335-30c4f7e8c8f0?auto=format&fit=crop&w=1200&q=70",
+      "https://images.unsplash.com/photo-1581093458791-9f3c3900df4b?auto=format&fit=crop&w=1200&q=70",
+      "https://images.unsplash.com/photo-1565043589221-994025e2cd1d?auto=format&fit=crop&w=1200&q=70"
+    ],
+    "short_fa": "بیلدر و کلاته‌کننده اصلی در پودر شوینده و سفت‌کننده آب.",
+    "short_en": "Main builder and chelating agent in detergent powders and water hardener.",
+    "description_fa": "تری‌پلی‌فسفات سدیم (STPP) یک نمک فسفات صنعتی است که به‌عنوان بیلدر اصلی در فرمولاسیون پودرهای شوینده استفاده می‌شود. این ماده یون‌های کلسیم و منیزیم (سختی آب) را کلاته می‌کند و در نتیجه عملکرد سورفاکتانت‌ها را افزایش می‌دهد. علاوه بر شوینده، در تصفیه آب، به‌عنوان عامل تعلیق و در صنایع غذایی (گرید Food Grade) به‌عنوان نگهدارنده و تثبیت‌کننده کاربرد دارد. خاور صدرا گرید صنعتی و خوراکی را تأمین می‌کند.",
+    "description_en": "Sodium tripolyphosphate (STPP) is an industrial phosphate salt used as the main builder in detergent powder formulations. It chelates calcium and magnesium ions (water hardness), thereby increasing surfactant performance. In addition to detergents, it is used in water treatment, as a suspending agent, and in food industries (Food Grade) as a preservative and stabilizer. Khavar Sadra supplies industrial and food grades.",
+    "applications_fa": [
+      "بیلدر و کلاته‌کننده در پودر شوینده",
+      "تصفیه آب و کنترل سختی",
+      "عامل تعلیق در صنایع مختلف",
+      "تثبیت‌کننده و نگهدارنده غذایی (Food Grade)",
+      "سرامیک و تولید شیشه"
+    ],
+    "applications_en": [
+      "Builder and chelating agent in detergent powder",
+      "Water treatment and hardness control",
+      "Suspending agent in various industries",
+      "Food stabilizer and preservative (Food Grade)",
+      "Ceramics and glass production"
+    ],
+    "specs": [
+      { "key_fa": "خلوص (Na₅P₃O₁₀)", "value_fa": "حداقل ۹۰٪", "key_en": "Purity (Na₅P₃O₁₀)", "value_en": "Min. 90%" },
+      { "key_fa": "گرید", "value_fa": "صنعتی / Food Grade", "key_en": "Grade", "value_en": "Industrial / Food Grade" },
+      { "key_fa": "فاز", "value_fa": "فاز I / فاز II", "key_en": "Phase", "value_en": "Phase I / Phase II" },
+      { "key_fa": "شکل ظاهری", "value_fa": "پودر سفید", "key_en": "Appearance", "value_en": "White powder" },
+      { "key_fa": "بسته‌بندی", "value_fa": "کیسه ۲۵ کیلوگرمی", "key_en": "Packaging", "value_en": "25 kg bag" }
+    ],
+    "packaging_fa": "بسته‌بندی در کیسه‌های پلی‌پروپیلن ۲۵ کیلوگرمی با روکش پلی‌اتیلن. نگهداری در محیط خشک و خنک. عمر مفید ۲۴ ماه.",
+    "packaging_en": "Packaged in 25 kg polypropylene bags with polyethylene inner liner. Store in a dry, cool place. Shelf life 24 months.",
+    "safety_fa": "کم‌خطر. در شرایط عادی ایمن است. inhalation پودر ممکن است باعث تحریک خفیف تنفسی شود. اطلاعات کامل در SDS.",
+    "safety_en": "Low hazard. Safe under normal conditions. Powder inhalation may cause mild respiratory irritation. Full details in SDS.",
+    "_disclaimer": "DEMO VALUES — to be verified by Khavar Sadra technical team before ordering.",
+    "faq": [
+      {
+        "q_fa": "فاز I و فاز II چه تفاوتی دارند؟",
+        "a_fa": "فاز I در دمای بالاتر تشکیل می‌شود و حلالیت سریع‌تری در آب دارد. فاز II حلالیت ملایم‌تری دارد و برای فرمولاسیون‌هایی که نیاز به حل‌شدن تدریجی دارند مناسب است.",
+        "q_en": "What is the difference between Phase I and Phase II?",
+        "a_en": "Phase I forms at higher temperatures and dissolves faster in water. Phase II has a milder dissolution and is suitable for formulations requiring gradual dissolution."
+      }
+    ]
+  },
+  {
+    "slug": "soda-ash",
+    "name_fa": "کربنات سدیم (سودا اش)",
+    "name_en": "Soda Ash (Sodium Carbonate)",
+    "formula": "Na₂CO₃",
+    "cas": "497-19-8",
+    "category": "salts_silicates",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1581093458791-9f3c3900df4b?auto=format&fit=crop&w=900&q=70",
+    "gallery": [
+      "https://images.unsplash.com/photo-1581093458791-9f3c3900df4b?auto=format&fit=crop&w=1200&q=70",
+      "https://images.unsplash.com/photo-1607998491335-30c4f7e8c8f0?auto=format&fit=crop&w=1200&q=70",
+      "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=1200&q=70"
+    ],
+    "short_fa": "باز متوسط و بیلدر اقتصادی در شوینده، شیشه، فلزکاری و تصفیه آب.",
+    "short_en": "Medium base and economic builder in detergents, glass, metalworking and water treatment.",
+    "description_fa": "کربنات سدیم (سودا اش) یکی از پرکاربردترین مواد شیمیایی پایه است که به‌صورت پودر سفید عرضه می‌شود. در صنایع شوینده (به‌عنوان بیلدر و بافر قلیایی اقتصادی)، شیشه‌سازی (کاهش نقطه ذوب سیلیس)، صابون، فلزکاری (تنظیم pH)، تصفیه آب (تنظیم pH و نرم‌کردن) و تولید مواد شیمیایی دیگر کاربرد گسترده‌ای دارد. خاور صدرا گرید سبک (Light) و سنگین (Dense) را تأمین می‌کند.",
+    "description_en": "Sodium carbonate (soda ash) is one of the most widely used base chemicals, supplied as a white powder. It is widely used in detergent industries (as a builder and economic alkaline buffer), glassmaking (lowering silica melting point), soap, metalworking (pH adjustment), water treatment (pH adjustment and softening) and the production of other chemicals. Khavar Sadra supplies both Light and Dense grades.",
+    "applications_fa": [
+      "بیلدر اقتصادی در پودر شوینده",
+      "صنعت شیشه و سرامیک",
+      "تولید صابون و مواد شیمیایی",
+      "تصفیه آب و تنظیم pH",
+      "فلزکاری و فرآوری کانه"
+    ],
+    "applications_en": [
+      "Economic builder in detergent powder",
+      "Glass and ceramic industry",
+      "Soap and chemical production",
+      "Water treatment and pH adjustment",
+      "Metalworking and ore processing"
+    ],
+    "specs": [
+      { "key_fa": "خلوص (Na₂CO₃)", "value_fa": "حداقل ۹۹.۲٪", "key_en": "Purity (Na₂CO₃)", "value_en": "Min. 99.2%" },
+      { "key_fa": "گرید", "value_fa": "Light / Dense", "key_en": "Grade", "value_en": "Light / Dense" },
+      { "key_fa": "چگالی ظاهری", "value_fa": "Light: ۰.۵، Dense: ۱.۰ g/cm³", "key_en": "Bulk density", "value_en": "Light: 0.5, Dense: 1.0 g/cm³" },
+      { "key_fa": "شکل ظاهری", "value_fa": "پودر سفید", "key_en": "Appearance", "value_en": "White powder" },
+      { "key_fa": "بسته‌بندی", "value_fa": "کیسه ۲۵ / ۵۰ کیلوگرمی", "key_en": "Packaging", "value_en": "25 / 50 kg bag" }
+    ],
+    "packaging_fa": "بسته‌بندی در کیسه‌های پلی‌پروپیلن ۲۵ یا ۵۰ کیلوگرمی. نگهداری در محیط خشک و خنک. دور از اسیدها. عمر مفید ۲۴ ماه.",
+    "packaging_en": "Packaged in 25 or 50 kg polypropylene bags. Store in a dry, cool place. Away from acids. Shelf life 24 months.",
+    "safety_fa": "کم‌خطر تا متوسط. باز متوسط است و تماس طولانی با پوست ممکن است باعث تحریک شود. استفاده از دستکش و ماسک توصیه می‌شود. اطلاعات کامل در SDS.",
+    "safety_en": "Low to medium hazard. A medium base and prolonged skin contact may cause irritation. Use of gloves and mask recommended. Full details in SDS.",
+    "_disclaimer": "DEMO VALUES — to be verified by Khavar Sadra technical team before ordering.",
+    "faq": [
+      {
+        "q_fa": "Light و Dense چه تفاوتی دارند؟",
+        "a_fa": "Light حجم بیشتر و چگالی کمتری دارد و برای فرمولاسیون مایع و کاربردهایی که نیاز به حلالیت سریع دارند مناسب است. Dense چگالی بالاتری دارد و برای حمل آسان‌تر و پودرهای شوینده رایج است.",
+        "q_en": "What is the difference between Light and Dense?",
+        "a_en": "Light has higher volume and lower density, suitable for liquid formulations and applications requiring fast dissolution. Dense has higher density and is common for easier transport and detergent powders."
+      }
+    ]
+  },
+  {
+    "slug": "sulfuric-acid",
+    "name_fa": "اسید سولفوریک",
+    "name_en": "Sulfuric Acid",
+    "formula": "H₂SO₄",
+    "cas": "7664-93-9",
+    "category": "acids",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=900&q=70",
+    "gallery": [
+      "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=1200&q=70",
+      "https://images.unsplash.com/photo-1607998491335-30c4f7e8c8f0?auto=format&fit=crop&w=1200&q=70",
+      "https://images.unsplash.com/photo-1581093458791-9f3c3900df4b?auto=format&fit=crop&w=1200&q=70"
+    ],
+    "short_fa": "اسید معدنی قوی و یکی از پایه‌ای‌ترین مواد صنایع شیمیایی، شوینده و باتری.",
+    "short_en": "Strong mineral acid and one of the foundational chemicals in chemicals, detergents and battery industries.",
+    "description_fa": "اسید سولفوریک یکی از مهم‌ترین و پرکاربردترین اسیدهای معدنی در صنعت است. این ماده در گریدهای مختلف غلظت (۹۸٪، ۹۳٪، ۷۰٪) عرضه می‌شود. کاربردهای اصلی آن در تولید سورفاکتانت‌ها (سولفوناسیون LAB)، تولید اسید فسفریک و هیدروکلریک، کود فسفاته، تصفیه آب و پساب، باتری‌های اسیدی، فلزکاری (پاک‌کردن و اسیدشویی)، پتروشیمی و تولید رنگ و رزین است. خاور صدرا گرید صنعتی و باتری را تأمین می‌کند.",
+    "description_en": "Sulfuric acid is one of the most important and widely used mineral acids in industry. It is supplied in various concentration grades (98%, 93%, 70%). Its main applications are in surfactant production (LAB sulfonation), production of phosphoric and hydrochloric acid, phosphate fertilizers, water and wastewater treatment, acid batteries, metalworking (cleaning and pickling), petrochemicals and paint and resin production. Khavar Sadra supplies industrial and battery grades.",
+    "applications_fa": [
+      "سولفوناسیون در تولید سورفاکتانت",
+      "تولید اسید فسفریک و هیدروکلریک",
+      "اسیدشویی فلزات و پاک‌کردن سطوح",
+      "باتری‌های اسیدی سرب",
+      "تصفیه آب و پساب"
+    ],
+    "applications_en": [
+      "Sulfonation in surfactant production",
+      "Production of phosphoric and hydrochloric acid",
+      "Metal pickling and surface cleaning",
+      "Lead-acid batteries",
+      "Water and wastewater treatment"
+    ],
+    "specs": [
+      { "key_fa": "غلظت (H₂SO₄)", "value_fa": "۹۸٪ / ۹۳٪ / ۷۰٪", "key_en": "Concentration (H₂SO₄)", "value_en": "98% / 93% / 70%" },
+      { "key_fa": "گرید", "value_fa": "صنعتی / باتری", "key_en": "Grade", "value_en": "Industrial / Battery" },
+      { "key_fa": "رنگ", "value_fa": "بی‌رنگ تا زرد کمرنگ", "key_en": "Color", "value_en": "Colorless to pale yellow" },
+      { "key_fa": "چگالی (۹۸٪)", "value_fa": "حدود ۱.۸۴ گرم بر سانتی‌متر مکعب", "key_en": "Density (98%)", "value_en": "~1.84 g/cm³" },
+      { "key_fa": "بسته‌بندی", "value_fa": "بشکه ۳۵ کیلوگرمی / تانک IBC", "key_en": "Packaging", "value_en": "35 kg drum / IBC tank" }
+    ],
+    "packaging_fa": "بسته‌بندی در بشکه پلی‌اتیلن ۳۵ کیلوگرمی یا تانک IBC. نگهداری در محیط خشک، خنک و دارای تهویه فراوان. دور از آب، فلزات، بازارها و مواد آلی. هرگز آب را به اسید اضافه نکنید. عمر مفید ۱۲ ماه.",
+    "packaging_en": "Packaged in 35 kg polyethylene drums or IBC tanks. Store in a dry, cool and well-ventilated environment. Away from water, metals, alkalis and organic materials. Never add water to acid. Shelf life 12 months.",
+    "safety_fa": "اسید قوی و به شدت خورنده! تماس با پوست و چشم باعث سوختگی شدید و آسیب دائمی می‌شود. واکنش با آب به شدت گرمازا است. استفاده از تجهیزات محافظ کامل الزامی است. در صورت تماس، فوراً ۱۵ دقیقه با آب شستشو دهید و به پزشک مراجعه کنید. اطلاعات کامل در SDS.",
+    "safety_en": "Strong acid and highly corrosive! Contact with skin and eyes causes severe burns and permanent damage. Reaction with water is highly exothermic. Use of full protective equipment is mandatory. In case of contact, rinse immediately with water for 15 minutes and seek medical attention. Full details in SDS.",
+    "_disclaimer": "DEMO VALUES — to be verified by Khavar Sadra technical team before ordering.",
+    "faq": [
+      {
+        "q_fa": "گرید باتری و صنعتی چه تفاوتی دارند؟",
+        "a_fa": "گرید باتری خلوص بالاتر و محدودیت سخت‌گیرانه‌ای برای ناخالصی‌های فلزی (آهن، مس) دارد تا عمر باتری افزایش یابد. گرید صنعتی برای کاربردهای فرآیندی مناسب است.",
+        "q_en": "What is the difference between battery and industrial grade?",
+        "a_en": "Battery grade has higher purity and strict limits for metallic impurities (iron, copper) to extend battery life. Industrial grade is suitable for process applications."
+      }
+    ]
+  },
+  {
+    "slug": "sles",
+    "name_fa": "سدیم لورت اتر سولفات (SLES)",
+    "name_en": "Sodium Laureth Sulfate (SLES)",
+    "formula": "CH₃(CH₂)₁₁(OCH₂CH₂)ₙOSO₃Na",
+    "cas": "9004-82-4",
+    "category": "surfactants",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1607998491335-30c4f7e8c8f0?auto=format&fit=crop&w=900&q=70",
+    "gallery": [
+      "https://images.unsplash.com/photo-1607998491335-30c4f7e8c8f0?auto=format&fit=crop&w=1200&q=70",
+      "https://images.unsplash.com/photo-1581093458791-9f3c3900df4b?auto=format&fit=crop&w=1200&q=70",
+      "https://images.unsplash.com/photo-1565043589221-994025e2cd1d?auto=format&fit=crop&w=1200&q=70"
+    ],
+    "short_fa": "سورفاکتانت آنیونی ملایم و کف‌دهنده اصلی در شامپو و ژل‌های بهداشتی.",
+    "short_en": "Mild anionic surfactant and main foaming agent in shampoos and personal care gels.",
+    "description_fa": "سدیم لورت اتر سولفات (SLES) یکی از پرکاربردترین سورفاکتانت‌های آنیونی در صنایع آرایشی و بهداشتی است. این ماده به دلیل کف‌دهندگی عالی، سازگاری با پوست، قیمت مناسب و قابلیت ترکیب با سایر سورفاکتانت‌ها، در فرمولاسیون شامپوها، ژل‌های حمام، مایع دستشویی، شوینده‌های صورت، خمیردندان و شوینده‌های صنعتی ملایم استفاده می‌شود. خاور صدرا گرید ۲۸٪ و ۷۰٪ فعال را تأمین می‌کند.",
+    "description_en": "Sodium laureth sulfate (SLES) is one of the most widely used anionic surfactants in the cosmetics and personal care industries. Due to its excellent foaming, skin compatibility, affordable price and ability to combine with other surfactants, it is used in shampoos, bath gels, hand wash liquids, face cleansers, toothpastes and mild industrial cleaners. Khavar Sadra supplies 28% and 70% active grades.",
+    "applications_fa": [
+      "شامپو و ژل حمام خانگی و صنعتی",
+      "مایع دستشویی و شوینده‌های صورت",
+      "خمیردندان و دهان‌شویه",
+      "شوینده‌های ملایم صنعتی",
+      "بایداس کودکان و شوینده‌های حساس"
+    ],
+    "applications_en": [
+      "Household and industrial shampoo and bath gel",
+      "Hand wash liquids and face cleansers",
+      "Toothpaste and mouthwash",
+      "Mild industrial cleaners",
+      "Baby baths and sensitive-skin cleaners"
+    ],
+    "specs": [
+      { "key_fa": "ماده فعال", "value_fa": "۲۸٪ / ۷۰٪", "key_en": "Active matter", "value_en": "28% / 70%" },
+      { "key_fa": "pH (محلول ۱۰٪)", "value_fa": "۷ تا ۹", "key_en": "pH (10% solution)", "value_en": "7 – 9" },
+      { "key_fa": "نمک سولفات بدون", "value_fa": "حداکثر ۲٪", "key_en": "Unsulfated salt", "value_en": "Max. 2%" },
+      { "key_fa": "شکل ظاهری", "value_fa": "مایع شفاف تا کدر", "key_en": "Appearance", "value_en": "Clear to hazy liquid" },
+      { "key_fa": "بسته‌بندی", "value_fa": "بشکه ۲۲۰ کیلوگرمی / IBC", "key_en": "Packaging", "value_en": "220 kg drum / IBC" }
+    ],
+    "packaging_fa": "بسته‌بندی در بشکه پلاستیکی ۲۲۰ کیلوگرمی یا تانک IBC. نگهداری در محیط خنک، دور از نور مستقیم و یخزدگی. عمر مفید ۱۲ ماه.",
+    "packaging_en": "Packaged in 220 kg plastic drums or IBC tanks. Store in a cool environment, away from direct light and freezing. Shelf life 12 months.",
+    "safety_fa": "کم‌خطر. در غلظت مصرف ایمن است اما تماس مستقیم با غلظت بالا ممکن است باعث تحریک چشم شود. استفاده از عینک توصیه می‌شود. اطلاعات کامل در SDS.",
+    "safety_en": "Low hazard. Safe at use concentration but direct contact with high concentration may cause eye irritation. Use of goggles recommended. Full details in SDS.",
+    "_disclaimer": "DEMO VALUES — to be verified by Khavar Sadra technical team before ordering.",
+    "faq": [
+      {
+        "q_fa": "تفاوت SLES و SLS چیست؟",
+        "a_fa": "SLS سدیم لوریل سولفات است و تحریک‌پذیری بالاتری برای پوست دارد. SLES با افزودن گروه اکسید اتیلن ملایم‌تر شده و در محصولات بهداشتی رایج‌تر است.",
+        "q_en": "What is the difference between SLES and SLS?",
+        "a_en": "SLS is sodium lauryl sulfate and has higher skin irritation. SLES is made milder by adding ethylene oxide groups and is more common in personal care products."
+      }
+    ]
+  },
+  {
+    "slug": "glycerin",
+    "name_fa": "گلیسیرین",
+    "name_en": "Glycerin",
+    "formula": "C₃H₈O₃",
+    "cas": "56-81-5",
+    "category": "gums_additives",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1565043589221-994025e2cd1d?auto=format&fit=crop&w=900&q=70",
+    "gallery": [
+      "https://images.unsplash.com/photo-1565043589221-994025e2cd1d?auto=format&fit=crop&w=1200&q=70",
+      "https://images.unsplash.com/photo-1611123624238-8cfff6c3a9c?auto=format&fit=crop&w=1200&q=70",
+      "https://images.unsplash.com/photo-1581093458791-9f3c3900df4b?auto=format&fit=crop&w=1200&q=70"
+    ],
+    "short_fa": "مرطوب‌کننده، حلال و روان‌کننده در آرایشی، غذایی، دارویی و صنایع مختلف.",
+    "short_en": "Humectant, solvent and lubricant in cosmetics, food, pharma and various industries.",
+    "description_fa": "گلیسیرین (گلیسرول) یک الکل پلی‌هیدریک بی‌رنگ، بی‌بو و شیرین است که به‌طور طبیعی در چربی‌ها یافت می‌شود. این ماده به دلیل خاصیت مرطوب‌کنندگی قوی، حلالیت بالا در آب و الکل، سازگاری با پوست و سمیت پایین، در صنایع آرایشی و بهداشتی (کرم‌ها، لوسیون‌ها، خمیردندان)، دارویی (شربت‌ها، کپسول‌ها)، غذایی (شیرین‌کننده، مرطوب‌کننده)، تنباکو، چرم و بسیاری از صنایع دیگر کاربرد دارد. خاور صدرا گرید خوراکی (USP) و صنعتی را تأمین می‌کند.",
+    "description_en": "Glycerin (glycerol) is a polyhydric alcohol that is colorless, odorless and sweet, naturally found in fats. Due to its strong humectant properties, high solubility in water and alcohol, skin compatibility and low toxicity, it is used in cosmetics and personal care (creams, lotions, toothpaste), pharmaceuticals (syrups, capsules), food (sweetener, humectant), tobacco, leather and many other industries. Khavar Sadra supplies USP (food) and industrial grades.",
+    "applications_fa": [
+      "مرطوب‌کننده در کرم‌ها و لوسیون‌ها",
+      "حلال در شربت‌ها و کپسول‌های دارویی",
+      "شیرین‌کننده و نگهدارنده رطوبت غذایی",
+      "خمیردندان و محصولات بهداشت دهان",
+      "نرم‌کننده چرم و نساجی"
+    ],
+    "applications_en": [
+      "Humectant in creams and lotions",
+      "Solvent in pharmaceutical syrups and capsules",
+      "Food sweetener and moisture preserver",
+      "Toothpaste and oral hygiene products",
+      "Leather and textile softener"
+    ],
+    "specs": [
+      { "key_fa": "خلوص (گلیسرول)", "value_fa": "حداقل ۹۹.۵٪", "key_en": "Purity (Glycerol)", "value_en": "Min. 99.5%" },
+      { "key_fa": "گرید", "value_fa": "USP / صنعتی", "key_en": "Grade", "value_en": "USP / Industrial" },
+      { "key_fa": "رنگ", "value_fa": "بی‌رغب", "key_en": "Color", "value_en": "Colorless" },
+      { "key_fa": "چگالی", "value_fa": "حدود ۱.۲۶ گرم بر سانتی‌متر مکعب", "key_en": "Density", "value_en": "~1.26 g/cm³" },
+      { "key_fa": "بسته‌بندی", "value_fa": "بشکه ۲۵۰ کیلوگرمی / IBC", "key_en": "Packaging", "value_en": "250 kg drum / IBC" }
+    ],
+    "packaging_fa": "بسته‌بندی در بشکه پلاستیکی ۲۵۰ کیلوگرمی یا تانک IBC. نگهداری در محیط خشک، خنک و دارای تهویه، دور از نور مستقیم و اکسیدکننده‌ها. عمر مفید ۲۴ ماه.",
+    "packaging_en": "Packaged in 250 kg plastic drums or IBC tanks. Store in a dry, cool, ventilated place away from direct light and oxidizers. Shelf life 24 months.",
+    "safety_fa": "کم‌خطر. در شرایط عالی ایمن است. inhalation بخار در دمای بالا ممکن است باعث تحریک خفیف دستگاه تنفسی شود. اطلاعات کامل در SDS.",
+    "safety_en": "Low hazard. Very safe under normal conditions. Inhalation of vapors at high temperatures may cause mild respiratory irritation. Full details in SDS.",
+    "_disclaimer": "DEMO VALUES — to be verified by Khavar Sadra technical team before ordering.",
+    "faq": [
+      {
+        "q_fa": "گلیسیرین گیاهی و سنتزی چه تفاوتی دارند؟",
+        "a_fa": "گلیسیرین گیاهی از هیدرولیز چربی‌های گیاهی (مثل روغن پالم) و گلیسیرین سنتزی از پروپیلن تولید می‌شود. هر دو از نظر شیمیایی یکسان هستند اما گرید گیاهی برای محصولات طبیعی و حلال ترجیح داده می‌شود.",
+        "q_en": "What is the difference between vegetable and synthetic glycerin?",
+        "a_en": "Vegetable glycerin is produced by hydrolysis of vegetable fats (such as palm oil) and synthetic glycerin from propylene. Both are chemically identical but vegetable grade is preferred for natural and halal products."
+      }
+    ]
+  },
+  {
+    "slug": "acrylic-resin",
+    "name_fa": "رزین اکریلیک",
+    "name_en": "Acrylic Resin",
+    "formula": "(C₃H₄O₂)ₙ",
+    "cas": "9003-01-4",
+    "category": "polymers_resins",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1611123624238-8cfff6c3a9c?auto=format&fit=crop&w=900&q=70",
+    "gallery": [
+      "https://images.unsplash.com/photo-1611123624238-8cfff6c3a9c?auto=format&fit=crop&w=1200&q=70",
+      "https://images.unsplash.com/photo-1565043589221-994025e2cd1d?auto=format&fit=crop&w=1200&q=70",
+      "https://images.unsplash.com/photo-1581094288338-2314dddb7ece?auto=format&fit=crop&w=1200&q=70"
+    ],
+    "short_fa": "رزین پایه برای رنگ‌های اکریلیک، چسب، چوب و صنایع ساختمانی.",
+    "short_en": "Base resin for acrylic paints, adhesives, wood and construction industries.",
+    "description_fa": "رزین اکریلیک یک پلیمر سنتزی است که از پلیمریزاسیون مونومرهای اکریلات تولید می‌شود و به دو شکل امولسیون (آبی) و خالص (جامد یا محلول) عرضه می‌گردد. این رزین به دلیل شفافیت بالا، مقاومت در برابر UV و زردشدن، چسبندگی عالی به سطوح مختلف، سرعت خشک‌شدن و سازگاری با محیط زیست، در تولید رنگ‌های اکریلیک ساختمانی و صنعتی، چسب‌های چوب و بسته‌بندی، جوهر چاپ، پوشش‌های چوب و چرم، و صنایع نساجی کاربرد گسترده‌ای دارد. خاور صدرا گرید امولسیون و خالص را تأمین می‌کند.",
+    "description_en": "Acrylic resin is a synthetic polymer produced by polymerization of acrylate monomers, supplied in two forms: emulsion (water-based) and pure (solid or solution). Due to its high transparency, UV and yellowing resistance, excellent adhesion to various surfaces, fast drying and environmental compatibility, it is widely used in the production of architectural and industrial acrylic paints, wood and packaging adhesives, printing inks, wood and leather coatings, and textile industries. Khavar Sadra supplies both emulsion and pure grades.",
+    "applications_fa": [
+      "رنگ‌های اکریلیک ساختمانی و صنعتی",
+      "چسب چوب و بسته‌بندی",
+      "پوشش‌های چوب و چرم",
+      "جوهر چاپ و نساجی",
+      "پوشش‌های محافظ صنعتی"
+    ],
+    "applications_en": [
+      "Architectural and industrial acrylic paints",
+      "Wood and packaging adhesives",
+      "Wood and leather coatings",
+      "Printing inks and textiles",
+      "Industrial protective coatings"
+    ],
+    "specs": [
+      { "key_fa": "ماده جامد", "value_fa": "۴۸ تا ۵۰٪ (امولسیون)", "key_en": "Solid content", "value_en": "48–50% (emulsion)" },
+      { "key_fa": "گرید", "value_fa": "امولسیون / خالص", "key_en": "Grade", "value_en": "Emulsion / Pure" },
+      { "key_fa": "ویسکوزیته", "value_fa": "۱۰۰۰ تا ۳۰۰۰ سانتی‌پواز", "key_en": "Viscosity", "value_en": "1000–3000 cP" },
+      { "key_fa": "pH", "value_fa": "۷ تا ۹", "key_en": "pH", "value_en": "7 – 9" },
+      { "key_fa": "بسته‌بندی", "value_fa": "بشکه ۲۲۰ کیلوگرمی / IBC", "key_en": "Packaging", "value_en": "220 kg drum / IBC" }
+    ],
+    "packaging_fa": "بسته‌بندی در بشکه پلاستیکی ۲۲۰ کیلوگرمی یا تانک IBC. نگهداری در محیط خنک و دارای تهویه، دور از نور مستقیم و یخزدگی. عمر مفید ۱۲ ماه در دمای ۵ تا ۳۵ درجه سانتی‌گراد.",
+    "packaging_en": "Packaged in 220 kg plastic drums or IBC tanks. Store in a cool, ventilated place away from direct sunlight and freezing. Shelf life 12 months at 5–35°C.",
+    "safety_fa": "کم‌خطر. در شرایط عادی ایمن است. تماس با چشم ممکن است باعث تحریک خفیف شود. استفاده از عینک توصیه می‌شود. اطلاعات کامل در SDS.",
+    "safety_en": "Low hazard. Safe under normal conditions. Eye contact may cause mild irritation. Use of goggles recommended. Full details in SDS.",
+    "_disclaimer": "DEMO VALUES — to be verified by Khavar Sadra technical team before ordering.",
+    "faq": [
+      {
+        "q_fa": "تفاوت رزین امولسیون و خالص چیست؟",
+        "a_fa": "امولسیون در آب پخش شده و برای رنگ‌ها و چسب‌های پایه آب مناسب است. رزین خالص (محلول یا جامد) برای کاربردهایی که نیاز به پوشش قوی‌تر و مقاومت شیمیایی بالاتر دارند استفاده می‌شود.",
+        "q_en": "What is the difference between emulsion and pure resin?",
+        "a_en": "Emulsion is dispersed in water and is suitable for water-based paints and adhesives. Pure resin (solution or solid) is used for applications requiring stronger coating and higher chemical resistance."
+      }
+    ]
+  }
+]

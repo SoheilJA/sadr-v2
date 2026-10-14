@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Home (canonical: /, also reachable as /index.html) -->
+  <url>
+    <loc>https://www.khavarsadra.com/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://www.khavarsadra.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.khavarsadra.com/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.khavarsadra.com/"/>
+  </url>
+  <url>
+    <loc>https://www.khavarsadra.com/index.html</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://www.khavarsadra.com/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.khavarsadra.com/index.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.khavarsadra.com/index.html"/>
+  </url>
+
+  <!-- Major pages -->
+  <url>
+    <loc>https://www.khavarsadra.com/about.html</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://www.khavarsadra.com/about.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.khavarsadra.com/about.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.khavarsadra.com/about.html"/>
+  </url>
+  <url>
+    <loc>https://www.khavarsadra.com/products.html</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://www.khavarsadra.com/products.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.khavarsadra.com/products.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.khavarsadra.com/products.html"/>
+  </url>
+  <url>
+    <loc>https://www.khavarsadra.com/product.html</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://www.khavarsadra.com/product.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.khavarsadra.com/product.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.khavarsadra.com/product.html"/>
+  </url>
+  <url>
+    <loc>https://www.khavarsadra.com/blog.html</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://www.khavarsadra.com/blog.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.khavarsadra.com/blog.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.khavarsadra.com/blog.html"/>
+  </url>
+  <url>
+    <loc>https://www.khavarsadra.com/post.html</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://www.khavarsadra.com/post.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.khavarsadra.com/post.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.khavarsadra.com/post.html"/>
+  </url>
+  <url>
+    <loc>https://www.khavarsadra.com/contact.html</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://www.khavarsadra.com/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.khavarsadra.com/contact.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.khavarsadra.com/contact.html"/>
+  </url>
+  <url>
+    <loc>https://www.khavarsadra.com/404.html</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://www.khavarsadra.com/404.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.khavarsadra.com/404.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.khavarsadra.com/404.html"/>
+  </url>
+
+  <!-- Service pages (subfolder) -->
+  <url>
+    <loc>https://www.khavarsadra.com/services/supply.html</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://www.khavarsadra.com/services/supply.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.khavarsadra.com/services/supply.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.khavarsadra.com/services/supply.html"/>
+  </url>
+  <url>
+    <loc>https://www.khavarsadra.com/services/trading.html</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://www.khavarsadra.com/services/trading.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.khavarsadra.com/services/trading.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.khavarsadra.com/services/trading.html"/>
+  </url>
+  <url>
+    <loc>https://www.khavarsadra.com/services/consulting.html</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://www.khavarsadra.com/services/consulting.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.khavarsadra.com/services/consulting.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.khavarsadra.com/services/consulting.html"/>
+  </url>
+  <url>
+    <loc>https://www.khavarsadra.com/services/quality-control.html</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://www.khavarsadra.com/services/quality-control.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.khavarsadra.com/services/quality-control.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.khavarsadra.com/services/quality-control.html"/>
+  </url>
+
+</urlset>

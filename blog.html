@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0b2447">
+  <title data-i18n="meta.blog_title">مقالات فنی | پتروپالایش خاور صدرا</title>
+  <meta name="description" data-i18n="meta.blog_desc" content="مقالات تخصصی درباره کاربردهای مواد شیمیایی صنعتی، ایمنی، نگهداری و انتخاب گرید مناسب.">
+  <link rel="canonical" href="https://www.khavarsadra.com/blog.html">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="fa_IR">
+  <meta property="og:locale:alternate" content="en_US">
+  <link rel="alternate" hreflang="fa" href="https://www.khavarsadra.com/blog.html">
+  <link rel="alternate" hreflang="en" href="https://www.khavarsadra.com/blog.html">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%230b2447'/%3E%3Ctext x='16' y='22' font-family='Inter,sans-serif' font-size='15' font-weight='800' fill='%2314a3b0' text-anchor='middle'%3EKS%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://images.unsplash.com">
+  <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com/3.4.16"></script>
+  <script>
+    tailwind.config = { theme: { extend: {
+      colors: { 'navy-900':'#07193a','navy-800':'#0b2447','navy-700':'#123a6b','navy-600':'#1a4f8a','teal-700':'#0e7c86','teal-600':'#14a3b0','teal-500':'#2bbcc7','amber-600':'#e8871e','amber-500':'#f59e0b' },
+      fontFamily: { fa: ['Vazirmatn','sans-serif'], en: ['Inter','sans-serif'] },
+    } } };
+  </script>
+  <link rel="stylesheet" href="assets/css/custom.css">
+</head>
+<body data-page="blog" class="font-fa">
+
+  <!-- Preloader -->
+  <div id="preloader" class="preloader" aria-hidden="true">
+    <svg class="mol" viewBox="0 0 100 100">
+      <line x1="20" y1="30" x2="50" y2="20"></line><line x1="50" y1="20" x2="80" y2="30"></line><line x1="80" y1="30" x2="80" y2="65"></line><line x1="80" y1="65" x2="50" y2="80"></line><line x1="50" y1="80" x2="20" y2="65"></line><line x1="20" y1="65" x2="20" y2="30"></line><line x1="50" y1="20" x2="50" y2="50"></line><line x1="50" y1="50" x2="80" y2="65"></line><line x1="50" y1="50" x2="20" y2="65"></line>
+      <circle cx="50" cy="50" r="6" class="core"></circle>
+      <circle cx="20" cy="30" r="4"></circle><circle cx="50" cy="20" r="4"></circle><circle cx="80" cy="30" r="4"></circle><circle cx="80" cy="65" r="4"></circle><circle cx="50" cy="80" r="4"></circle><circle cx="20" cy="65" r="4"></circle>
+    </svg>
+    <div class="progress-bar"><span></span></div>
+    <div class="progress">0%</div>
+  </div>
+
+  <!-- Announcement bar -->
+  <div class="announce-bar" data-announce-status>
+    <div class="ppks-container flex items-center justify-center gap-3 flex-wrap text-center">
+      <span class="dot online"></span>
+      <span data-announce-status-text>پاسخگوی شما هستیم</span>
+      <span class="hidden sm:inline opacity-50">•</span>
+      <span data-i18n="announce.text">پاسخگویی به درخواست‌ها در ساعات کاری</span>
+    </div>
+  </div>
+
+  <!-- Header -->
+  <header class="site-header" role="banner">
+    <div class="ppks-container header-inner">
+      <a href="index.html" class="flex items-center gap-3 me-4" aria-label="Khavar Sadra home">
+        <span class="logo-mark inline-flex items-center justify-center w-11 h-11 rounded-xl bg-navy-800 text-teal-500 font-extrabold font-en text-lg shadow-sm">KS</span>
+        <span class="hidden md:flex flex-col leading-tight">
+          <span class="font-bold text-navy-800 text-base" data-i18n="brand.short_fa">خاور صدرا</span>
+          <span class="text-[11px] text-slate-500 font-en">Khavar Sadra</span>
+        </span>
+      </a>
+      <nav class="hidden lg:flex items-center gap-1 mx-auto" aria-label="Primary">
+        <a href="index.html" class="nav-link" data-i18n="nav.home">خانه</a>
+        <a href="about.html" class="nav-link" data-i18n="nav.about">درباره ما</a>
+        <div class="nav-item-mega relative">
+          <button class="nav-link" aria-haspopup="true" aria-expanded="false">
+            <span data-i18n="nav.services">خدمات</span>
+            <svg class="w-4 h-4 opacity-70" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+          </button>
+          <div class="mega-menu" role="menu">
+            <div class="grid grid-cols-2 gap-6">
+              <div class="space-y-2">
+                <a href="services/supply.html" class="mega-link" role="menuitem"><span class="mega-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 18V6a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v11a1 1 0 0 0 1 1h2M14 9h4l4 4v4a1 1 0 0 1-1 1h-1"/><circle cx="7" cy="18" r="2"/><circle cx="17" cy="18" r="2"/></svg></span><div><div class="font-semibold text-navy-800" data-i18n="nav.services_supply">تأمین و توزیع</div><div class="text-xs text-slate-500 mt-1" data-i18n="services_overview.supply_desc">زنجیره تأمین قابل‌اعتماد</div></div></a>
+                <a href="services/trading.html" class="mega-link" role="menuitem"><span class="mega-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7h18M3 12h18M3 17h18"/></svg></span><div><div class="font-semibold text-navy-800" data-i18n="nav.services_trading">تجارت و ترخیص</div><div class="text-xs text-slate-500 mt-1" data-i18n="services_overview.trading_desc">واردات و ترخیص</div></div></a>
+                <a href="services/consulting.html" class="mega-link" role="menuitem"><span class="mega-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 12a4 4 0 1 0 4-4V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v3a4 4 0 0 1 4 4z"/><path d="M6 18h8M3 22h18"/></svg></span><div><div class="font-semibold text-navy-800" data-i18n="nav.services_consulting">مشاوره فنی</div><div class="text-xs text-slate-500 mt-1" data-i18n="services_overview.consulting_desc">انتخاب گرید مناسب</div></div></a>
+                <a href="services/quality-control.html" class="mega-link" role="menuitem"><span class="mega-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/></svg></span><div><div class="font-semibold text-navy-800" data-i18n="nav.services_qc">کنترل کیفیت</div><div class="text-xs text-slate-500 mt-1" data-i18n="services_overview.qc_desc">آزمایشگاه مجهز</div></div></a>
+              </div>
+              <div class="bg-navy-800 rounded-xl p-5 text-white flex flex-col justify-between">
+                <div><div class="text-xs font-semibold text-teal-400 uppercase tracking-wider mb-2" data-i18n="cta.consultation">مشاوره رایگان</div><div class="font-bold text-lg leading-snug mb-3" data-i18n="cta.talk_to_experts">با کارشناسان ما گفتگو کنید</div></div>
+                <a href="#" data-wa data-wa-msg="whatsapp.greeting" target="_blank" rel="noopener" class="btn btn-whatsapp btn-sm mt-4" data-cta="whatsapp-mega"><span data-i18n="cta.whatsapp">واتساپ</span></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <a href="products.html" class="nav-link" data-i18n="nav.products">محصولات</a>
+        <a href="blog.html" class="nav-link" data-i18n="nav.blog" aria-current="true">مقالات</a>
+        <a href="contact.html" class="nav-link" data-i18n="nav.contact">تماس</a>
+      </nav>
+      <div class="flex items-center gap-2 ms-auto lg:ms-0">
+        <button class="hidden sm:inline-flex items-center justify-center w-10 h-10 rounded-lg border border-slate-200 text-sm font-bold text-navy-800 hover:border-navy-700 transition" data-lang-switch="en" aria-label="English">EN</button>
+        <a href="tel:+982122884400" data-phone class="hidden md:inline-flex items-center gap-2 px-3 py-2 rounded-lg text-navy-800 hover:bg-slate-50 transition" data-cta="call-header"><svg class="w-4 h-4 text-teal-600" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg><span class="text-sm font-semibold" data-phone-text>+98 21 2288 4400</span></a>
+        <a href="#" data-wa data-wa-msg="cta.quote" target="_blank" rel="noopener" class="btn btn-primary btn-sm hidden sm:inline-flex" data-cta="whatsapp-header"><span data-i18n="cta.quote_short">استعلام قیمت</span></a>
+        <button class="lg:hidden inline-flex items-center justify-center w-11 h-11 rounded-lg text-navy-800 hover:bg-slate-100" data-open-mobile aria-label="Open menu" aria-expanded="false"><svg class="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" x2="20" y1="6" y2="6"/><line x1="4" x2="20" y1="12" y2="12"/><line x1="4" x2="20" y1="18" y2="18"/></svg></button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Mobile menu -->
+  <div id="mobile-menu" class="mobile-menu lg:hidden" role="dialog" aria-modal="true" aria-label="Mobile menu">
+    <div class="ppks-container py-5 flex items-center justify-between">
+      <span class="font-bold text-navy-800 text-lg" data-i18n="nav.home">خانه</span>
+      <button class="w-11 h-11 inline-flex items-center justify-center rounded-lg text-navy-800 hover:bg-slate-100" data-close-mobile aria-label="Close menu"><svg class="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18M6 6l12 12"/></svg></button>
+    </div>
+    <nav class="ppks-container pb-8" aria-label="Mobile primary">
+      <a href="index.html" class="block py-4 border-b border-slate-100 text-xl font-semibold text-navy-800" data-i18n="nav.home">خانه</a>
+      <a href="about.html" class="block py-4 border-b border-slate-100 text-xl font-semibold text-navy-800" data-i18n="nav.about">درباره ما</a>
+      <div class="mobile-accordion-item border-b border-slate-100">
+        <button aria-expanded="false"><span data-i18n="nav.services">خدمات</span><svg class="chev w-5 h-5 text-teal-600" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg></button>
+        <div class="mobile-accordion-content"><div class="pb-3 space-y-1"><a href="services/supply.html" class="block py-2 text-slate-700" data-i18n="nav.services_supply">تأمین و توزیع</a><a href="services/trading.html" class="block py-2 text-slate-700" data-i18n="nav.services_trading">تجارت و ترخیص</a><a href="services/consulting.html" class="block py-2 text-slate-700" data-i18n="nav.services_consulting">مشاوره فنی</a><a href="services/quality-control.html" class="block py-2 text-slate-700" data-i18n="nav.services_qc">کنترل کیفیت</a></div></div>
+      </div>
+      <a href="products.html" class="block py-4 border-b border-slate-100 text-xl font-semibold text-navy-800" data-i18n="nav.products">محصولات</a>
+      <a href="blog.html" class="block py-4 border-b border-slate-100 text-xl font-semibold text-navy-800" data-i18n="nav.blog">مقالات</a>
+      <a href="contact.html" class="block py-4 border-b border-slate-100 text-xl font-semibold text-navy-800" data-i18n="nav.contact">تماس</a>
+      <div class="mt-6 flex flex-col gap-3">
+        <a href="#" data-wa data-wa-msg="cta.quote" target="_blank" rel="noopener" class="btn btn-primary btn-block btn-lg" data-cta="whatsapp-mobile-menu"><span data-i18n="cta.quote">استعلام قیمت</span></a>
+        <div class="flex gap-2"><a href="tel:+982122884400" data-phone class="btn btn-outline flex-1" data-cta="call-mobile-menu"><svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg><span data-i18n="cta.call">تماس</span></a><button class="btn btn-outline flex-1" data-lang-switch="en">English</button></div>
+      </div>
+    </nav>
+  </div>
+
+  <main>
+
+    <!-- Hero -->
+    <section class="bg-navy text-white py-16 lg:py-24 relative overflow-hidden hex-pattern-soft">
+      <div class="absolute inset-0 pointer-events-none" style="background: radial-gradient(circle at 80% 20%, rgba(20,163,176,.18), transparent 50%);"></div>
+      <div class="ppks-container relative z-10 max-w-3xl">
+        <nav class="text-sm text-slate-400 mb-4" aria-label="breadcrumb">
+          <a href="index.html" class="hover:text-white" data-i18n="post_page.home">خانه</a>
+          <span class="mx-2">/</span>
+          <span class="text-white" data-i18n="blog_page.breadcrumb">مقالات</span>
+        </nav>
+        <span class="h-section-tag" style="background:rgba(255,255,255,.08);color:#2bbcc7;border-color:rgba(255,255,255,.15)" data-i18n="blog_page.title">مقالات فنی</span>
+        <h1 class="text-4xl md:text-5xl font-extrabold mt-4 mb-5 text-balance" data-i18n="blog_page.title">مقالات فنی</h1>
+        <p class="text-lg text-slate-300 leading-relaxed" data-i18n="blog_page.subtitle">منابع آموزشی و فنی برای انتخاب، استفاده ایمن و نگهداری مواد شیمیایی صنعتی.</p>
+      </div>
+    </section>
+
+    <!-- Filter bar -->
+    <section class="border-b border-slate-100 bg-white sticky top-0 z-30 backdrop-blur supports-[backdrop-filter]:bg-white/85">
+      <div class="ppks-container py-4 flex flex-col sm:flex-row items-stretch sm:items-center gap-3">
+        <div class="relative flex-1">
+          <span class="absolute inset-y-0 start-0 flex items-center ps-3 text-slate-400 pointer-events-none">
+            <svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+          </span>
+          <input type="search" data-blog-search data-i18n-attr="placeholder:blog_page.search_ph" placeholder="جستجو در مقالات..." aria-label="Search articles" class="w-full ps-11 pe-4 py-2.5 rounded-xl border border-slate-200 focus:border-teal-600 focus:ring-2 focus:ring-teal-600/20 outline-none transition bg-white text-navy-800 placeholder:text-slate-400">
+        </div>
+        <div class="relative sm:w-64">
+          <span class="absolute inset-y-0 start-0 flex items-center ps-3 text-slate-400 pointer-events-none">
+            <svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 3H2l8 9.46V19l4 2v-8.54L22 3z"/></svg>
+          </span>
+          <select data-blog-cat aria-label="Filter by category" class="w-full ps-11 pe-8 py-2.5 rounded-xl border border-slate-200 focus:border-teal-600 focus:ring-2 focus:ring-teal-600/20 outline-none transition bg-white text-navy-800 appearance-none cursor-pointer">
+            <option value="all" data-i18n="blog_page.all_categories">همه موضوعات</option>
+            <option value="detergents">شوینده</option>
+            <option value="polymers">پلیمر</option>
+            <option value="safety">ایمنی</option>
+            <option value="additives">افزودنی‌ها</option>
+          </select>
+          <span class="absolute inset-y-0 end-0 flex items-center pe-3 text-slate-400 pointer-events-none">
+            <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+          </span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Featured article (JS-filled) -->
+    <section class="section">
+      <div class="ppks-container">
+        <div class="flex items-center justify-between mb-6" data-reveal>
+          <h2 class="text-2xl md:text-3xl font-extrabold text-navy-800 flex items-center gap-3">
+            <svg class="w-6 h-6 text-amber-500" viewBox="0 0 24 24" fill="currentColor"><path d="m12 2 2.4 7.4H22l-6.2 4.5 2.4 7.4L12 16.8l-6.2 4.5 2.4-7.4L2 9.4h7.6z"/></svg>
+            <span data-i18n="blog_page.featured">مقاله ویژه</span>
+          </h2>
+        </div>
+        <div data-blog-featured>
+          <!-- Loading skeleton -->
+          <div class="card grid md:grid-cols-2 overflow-hidden">
+            <div class="aspect-[16/9] md:aspect-auto bg-slate-100 animate-pulse"></div>
+            <div class="card-body flex flex-col justify-center gap-3">
+              <div class="flex gap-2"><div class="h-6 w-20 rounded-full bg-slate-100 animate-pulse"></div><div class="h-6 w-20 rounded-full bg-slate-100 animate-pulse"></div></div>
+              <div class="h-7 w-3/4 rounded bg-slate-100 animate-pulse"></div>
+              <div class="h-4 w-full rounded bg-slate-100 animate-pulse"></div>
+              <div class="h-4 w-5/6 rounded bg-slate-100 animate-pulse"></div>
+              <div class="h-4 w-24 rounded bg-slate-100 animate-pulse mt-2"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Articles grid (JS-filled) -->
+    <section class="section bg-soft">
+      <div class="ppks-container">
+        <div class="mb-8" data-reveal>
+          <span class="h-section-tag" data-i18n="blog_page.title">مقالات فنی</span>
+          <h2 class="text-3xl md:text-4xl font-extrabold text-navy-800 mt-3" data-i18n="nav.blog">مقالات</h2>
+        </div>
+        <div data-blog-grid class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          <!-- Loading skeleton cards (JS replaces) -->
+          <div class="card card-hover overflow-hidden">
+            <div class="aspect-[16/9] bg-slate-100 animate-pulse"></div>
+            <div class="card-body flex flex-col gap-3">
+              <div class="h-5 w-32 rounded bg-slate-100 animate-pulse"></div>
+              <div class="h-5 w-3/4 rounded bg-slate-100 animate-pulse"></div>
+              <div class="h-4 w-full rounded bg-slate-100 animate-pulse"></div>
+              <div class="h-4 w-2/3 rounded bg-slate-100 animate-pulse"></div>
+            </div>
+          </div>
+          <div class="card card-hover overflow-hidden">
+            <div class="aspect-[16/9] bg-slate-100 animate-pulse"></div>
+            <div class="card-body flex flex-col gap-3">
+              <div class="h-5 w-32 rounded bg-slate-100 animate-pulse"></div>
+              <div class="h-5 w-3/4 rounded bg-slate-100 animate-pulse"></div>
+              <div class="h-4 w-full rounded bg-slate-100 animate-pulse"></div>
+              <div class="h-4 w-2/3 rounded bg-slate-100 animate-pulse"></div>
+            </div>
+          </div>
+          <div class="card card-hover overflow-hidden">
+            <div class="aspect-[16/9] bg-slate-100 animate-pulse"></div>
+            <div class="card-body flex flex-col gap-3">
+              <div class="h-5 w-32 rounded bg-slate-100 animate-pulse"></div>
+              <div class="h-5 w-3/4 rounded bg-slate-100 animate-pulse"></div>
+              <div class="h-4 w-full rounded bg-slate-100 animate-pulse"></div>
+              <div class="h-4 w-2/3 rounded bg-slate-100 animate-pulse"></div>
+            </div>
+          </div>
+        </div>
+        <nav class="pagination mt-10" data-blog-pagination aria-label="Pagination"></nav>
+      </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="section bg-navy text-white hex-pattern-soft">
+      <div class="ppks-container text-center max-w-2xl mx-auto" data-reveal>
+        <h2 class="text-3xl md:text-4xl font-extrabold mb-4" data-i18n="cta.talk_to_experts">با کارشناسان ما گفتگو کنید</h2>
+        <p class="text-slate-300 mb-6" data-i18n="contact_page.subtitle">تیم فروش خاور صدرا در ساعات کاری پاسخگوی شماست.</p>
+        <div class="flex flex-wrap justify-center gap-3">
+          <a href="#" data-wa data-wa-msg="cta.quote" target="_blank" rel="noopener" class="btn btn-primary btn-lg" data-cta="whatsapp-blog-cta"><span data-i18n="cta.quote">درخواست مشاوره و استعلام قیمت</span></a>
+          <a href="tel:+982122884400" data-phone class="btn btn-ghost-light btn-lg" data-cta="call-blog-cta"><span data-i18n="cta.call">تماس</span></a>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Footer (same as index.html) -->
+  <footer class="site-footer pt-16 pb-28 lg:pb-12" role="contentinfo">
+    <div class="ppks-container grid lg:grid-cols-4 gap-10">
+      <div class="lg:col-span-1">
+        <div class="flex items-center gap-3 mb-4">
+          <span class="logo-mark inline-flex items-center justify-center w-11 h-11 rounded-xl bg-teal-600 text-navy-900 font-extrabold font-en text-lg">KS</span>
+          <div><div class="font-bold text-white" data-i18n="brand.short_fa">خاور صدرا</div><div class="text-[11px] text-slate-400 font-en">Khavar Sadra</div></div>
+        </div>
+        <p class="text-sm text-slate-400 leading-relaxed" data-i18n="footer.about_text">تأمین‌کننده تخصصی مواد شیمیایی صنعتی.</p>
+        <a href="#" data-download-catalog class="btn btn-ghost-light btn-sm mt-4" data-cta="download-catalog-footer"><svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg><span data-i18n="cta.download_catalog">دانلود کاتالوگ</span></a>
+      </div>
+      <div><h4 data-i18n="footer.quick_links">دسترسی سریع</h4><ul class="space-y-1"><li><a href="index.html" class="footer-link" data-i18n="nav.home">خانه</a></li><li><a href="about.html" class="footer-link" data-i18n="nav.about">درباره ما</a></li><li><a href="products.html" class="footer-link" data-i18n="nav.products">محصولات</a></li><li><a href="blog.html" class="footer-link" data-i18n="nav.blog">مقالات</a></li><li><a href="contact.html" class="footer-link" data-i18n="nav.contact">تماس</a></li></ul></div>
+      <div><h4 data-i18n="footer.services">خدمات</h4><ul class="space-y-1"><li><a href="services/supply.html" class="footer-link" data-i18n="nav.services_supply">تأمین و توزیع</a></li><li><a href="services/trading.html" class="footer-link" data-i18n="nav.services_trading">تجارت و ترخیص</a></li><li><a href="services/consulting.html" class="footer-link" data-i18n="nav.services_consulting">مشاوره فنی</a></li><li><a href="services/quality-control.html" class="footer-link" data-i18n="nav.services_qc">کنترل کیفیت</a></li></ul></div>
+      <div><h4 data-i18n="footer.contact_info">اطلاعات تماس</h4><ul class="space-y-3 text-sm text-slate-300"><li class="flex items-start gap-2"><svg class="w-4 h-4 mt-1 text-teal-400 flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 4.99-5.5 9.5-7.5 11.5a1 1 0 0 1-1 0C9.5 19.5 4 14.99 4 10a8 8 0 1 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg><span data-f-footer-address>آدرس</span></li><li class="flex items-center gap-2"><svg class="w-4 h-4 text-teal-400 flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg><span data-f-footer-phone>تلفن</span></li><li class="flex items-center gap-2"><svg class="w-4 h-4 text-teal-400 flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg><span data-f-footer-email>ایمیل</span></li></ul></div>
+    </div>
+    <div class="ppks-container mt-12 pt-6 border-t border-white/10 flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-slate-400">
+      <div data-i18n="footer.rights">تمامی حقوق محفوظ است.</div>
+      <div class="flex gap-4"><span data-f-reg-no>شماره ثبت</span><span data-f-nat-id>شناسه ملی</span></div>
+    </div>
+  </footer>
+
+  <!-- Mobile bottom CTA bar -->
+  <div class="mobile-cta-bar lg:hidden">
+    <a href="tel:+982122884400" data-phone class="call" data-cta="call-mobile-bar"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg><span data-i18n="mobile_bar.call">تماس</span></a>
+    <a href="#" data-wa data-wa-msg="whatsapp.greeting" target="_blank" rel="noopener" class="whatsapp" data-cta="whatsapp-mobile-bar"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.47 14.38c-.3-.15-1.74-.86-2-.95-.27-.1-.46-.15-.66.15-.2.3-.76.95-.93 1.14-.17.2-.34.22-.64.07-.3-.15-1.25-.46-2.38-1.47-.88-.78-1.47-1.75-1.64-2.05-.17-.3-.02-.46.13-.6.13-.13.3-.34.45-.5.15-.17.2-.3.3-.5.1-.2.05-.37-.02-.52-.07-.15-.66-1.6-.9-2.18-.24-.58-.48-.5-.66-.5-.17 0-.37-.02-.57-.02-.2 0-.52.07-.8.37-.27.3-1.04 1.02-1.04 2.48 0 1.46 1.06 2.87 1.21 3.07.15.2 2.1 3.2 5.08 4.49.71.31 1.26.49 1.69.62.71.23 1.36.2 1.87.12.57-.09 1.74-.71 1.99-1.4.25-.69.25-1.28.17-1.4-.07-.13-.27-.2-.57-.35z"/></svg><span data-i18n="mobile_bar.whatsapp">واتساپ</span></a>
+    <a href="#" data-tg target="_blank" rel="noopener" class="telegram" data-cta="telegram-mobile-bar"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M21.94 4.55L18.6 19.06c-.25 1.11-.91 1.39-1.84.86l-5.08-3.75-2.45 2.36c-.27.27-.5.5-1 .5l.36-5.16L17.92 6.4c.41-.36-.09-.57-.63-.21L6.36 13.21l-5-1.56c-1.09-.34-1.11-1.09.23-1.61l19.55-7.53c.91-.33 1.7.21 1.4 1.56z"/></svg><span data-i18n="mobile_bar.telegram">تلگرام</span></a>
+  </div>
+
+  <!-- Floating desktop CTA -->
+  <div id="floating-cta" class="floating-cta">
+    <div class="fab-stack">
+      <a href="tel:+982122884400" data-phone data-cta="call-fab"><span class="ico call"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg></span><span data-i18n="cta.call">تماس</span></a>
+      <a href="#" data-wa data-wa-msg="whatsapp.greeting" target="_blank" rel="noopener" data-cta="whatsapp-fab"><span class="ico whatsapp"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.47 14.38c-.3-.15-1.74-.86-2-.95-.27-.1-.46-.15-.66.15-.2.3-.76.95-.93 1.14-.17.2-.34.22-.64.07-.3-.15-1.25-.46-2.38-1.47-.88-.78-1.47-1.75-1.64-2.05-.17-.3-.02-.46.13-.6.13-.13.3-.34.45-.5.15-.17.2-.3.3-.5.1-.2.05-.37-.02-.52-.07-.15-.66-1.6-.9-2.18-.24-.58-.48-.5-.66-.5-.17 0-.37-.02-.57-.02-.2 0-.52.07-.8.37-.27.3-1.04 1.02-1.04 2.48 0 1.46 1.06 2.87 1.21 3.07.15.2 2.1 3.2 5.08 4.49.71.31 1.26.49 1.69.62.71.23 1.36.2 1.87.12.57-.09 1.74-.71 1.99-1.4.25-.69.25-1.28.17-1.4-.07-.13-.27-.2-.57-.35z"/></svg></span><span>WhatsApp</span></a>
+      <a href="#" data-tg target="_blank" rel="noopener" data-cta="telegram-fab"><span class="ico telegram"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M21.94 4.55L18.6 19.06c-.25 1.11-.91 1.39-1.84.86l-5.08-3.75-2.45 2.36c-.27.27-.5.5-1 .5l.36-5.16L17.92 6.4c.41-.36-.09-.57-.63-.21L6.36 13.21l-5-1.56c-1.09-.34-1.11-1.09.23-1.61l19.55-7.53c.91-.33 1.7.21 1.4 1.56z"/></svg></span><span>Telegram</span></a>
+    </div>
+    <button class="fab" aria-label="Contact"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></button>
+  </div>
+
+  <script src="assets/js/config.js"></script>
+  <script>
+    // Load fallback data only on file:// protocol (production uses fetch)
+    if (location.protocol === "file:") {
+      document.write(\'<script src="assets/js/i18n-fallback.js"><\/script>\');
+      document.write(\'<script src="assets/js/data-fallback.js"><\/script>\');
+    }
+  </script>
+  <script src="assets/js/i18n.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.2/anime.min.js" defer></script>
+  <script src="assets/js/main.js" defer></script>
+</body>
+</html>
