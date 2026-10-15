@@ -149,6 +149,15 @@ html[lang='fa'] .h-section-tag { text-transform: none; letter-spacing: 0; }
 
 .btn svg { width: 18px; height: 18px; flex-shrink: 0; }
 
+.card svg,
+[data-product-detail] svg,
+[data-post-detail] svg,
+.pagination svg {
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+}
+
 .btn-lg { padding: 15px 28px; font-size: 16px; }
 .btn-sm { padding: 8px 16px; font-size: 13px; min-height: 36px; }
 .btn-block { width: 100%; }

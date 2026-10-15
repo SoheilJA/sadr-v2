@@ -114,12 +114,9 @@
   /** Update the language switcher button text + active state. */
   function updateSwitcher() {
     document.querySelectorAll('[data-lang-switch]').forEach((btn) => {
-      const target = btn.getAttribute('data-lang-switch');
-      btn.setAttribute('aria-pressed', String(target === current));
-      btn.setAttribute('aria-current', String(target === current));
-      // The button label is the OTHER language name (so user knows what they'll switch TO)
-      const labelKey = target === 'fa' ? 'header.lang_switch' : 'header.lang_switch';
-      // We just set the visible label to FA/EN of the target
+      const target = current === 'fa' ? 'en' : 'fa';
+      btn.setAttribute('data-lang-switch', target);
+      btn.setAttribute('aria-label', target === 'fa' ? 'فارسی' : 'English');
       btn.textContent = target.toUpperCase();
     });
   }
